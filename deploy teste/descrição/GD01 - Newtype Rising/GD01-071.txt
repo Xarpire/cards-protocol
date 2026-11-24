@@ -1,0 +1,12 @@
+Gundam Pharact
+
+COLOR White | TYPE UNIT | RARITY R
+
+Lv. 4 | COST 3 
+
+【During Link】【Attack】Choose 1 enemy Unit. It gets AP-2 during this battle.
+
+Trait (Academy)
+Link (Academy) Trait
+
+AP 3 | HP 4

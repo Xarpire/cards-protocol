@@ -1,0 +1,12 @@
+LaGOWE
+
+COLOR Red | TYPE UNIT | RARITY R
+
+Lv. 3 | COST 2 
+
+【Attack】If this Unit has 5 or more AP and it is attacking an enemy Unit, choose 1 enemy Unit. Deal 2 damage to it.
+
+Trait (ZAFT)
+Link (ZAFT) Trait
+
+AP 2 | HP 3

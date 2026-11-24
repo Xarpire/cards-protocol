@@ -1,0 +1,12 @@
+Securing the Supply Line
+
+COLOR Blue | TYPE COMMAND | RARITY U
+
+Lv. 4 | COST 2 
+
+【Main】All friendly Units that are Lv.4 or lower recover 2 HP.
+
+Trait -
+Link -
+
+AP - | HP -

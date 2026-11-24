@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Minha coleção</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="barra-topo">
+    <a class="marca" href="/" aria-label="Minha Coleção - início">
+      <span class="marca-icone">✦</span>
+      <span class="marca-texto">
+        <strong>Minha Coleção</strong>
+        <small>Catálogo pessoal</small>
+      </span>
+    </a>
+    <nav class="menu-topo">
+      <ul>
+        <li><a href="/">Jogos</a></li>
+        <li><a class="ativo" href="/colecao.html">Minha coleção</a></li>
+      </ul>
+    </nav>
+    <div class="topo-acoes">
+      <span id="usuarioLogado" class="usuario-logado"></span>
+      <button id="btnSair" class="link-topo btn-sair" type="button">Sair</button>
+    </div>
+  </header>
+
+  <main class="pagina-colecao">
+    <div class="cabecalho-colecao">
+      <div>
+        <h1>Minha coleção</h1>
+        <p>As quantidades salvas ficam disponíveis nos aparelhos autenticados.</p>
+      </div>
+      <a class="botao-principal link-botao" href="/">Adicionar cartas</a>
+    </div>
+
+    <label class="seletor-jogo-colecao" for="jogoColecao">
+      Jogo da coleção
+      <select id="jogoColecao" disabled>
+        <option>Carregando jogos...</option>
+      </select>
+    </label>
+
+    <p id="estadoColecao" class="estado-pagina" role="status" aria-live="polite">Carregando coleção...</p>
+
+    <section id="conteudoColecao" class="conteudo-colecao" hidden>
+      <section id="visaoEdicoes">
+        <section class="progresso-edicoes" aria-labelledby="tituloProgressoEdicoes">
+          <h2 id="tituloProgressoEdicoes">Selecione uma edição</h2>
+          <div id="edicoesColecao" class="edicoes-colecao"></div>
+          <p id="avisoEdicoesVazias" class="aviso-sem-edicoes" hidden></p>
+        </section>
+
+        <div class="resumo-colecao">
+          <article class="cartao-resumo">
+            <strong id="cartasPossuidas">0</strong>
+            <span>versões encontradas</span>
+          </article>
+          <article class="cartao-resumo">
+            <strong id="cartasFaltando">0</strong>
+            <span>versões faltando</span>
+          </article>
+          <article class="cartao-resumo">
+            <strong id="progressoColecao">0%</strong>
+            <span>coleção completa</span>
+          </article>
+          <article class="cartao-resumo">
+            <strong id="totalCopias">0</strong>
+            <span>cartas no total</span>
+          </article>
+        </div>
+      </section>
+
+      <section id="visaoCartasEdicao" hidden>
+        <div class="cabecalho-cartas-edicao">
+          <button id="btnVoltarEdicoes" class="botao-secundario" type="button">← Voltar às edições</button>
+          <h2 id="tituloCartasEdicao"></h2>
+        </div>
+        <label class="busca-colecao" for="buscaColecao">
+          Buscar nesta edição
+          <input id="buscaColecao" type="search" placeholder="Nome ou número da carta">
+        </label>
+        <p id="colecaoVazia" class="colecao-vazia" hidden></p>
+        <div id="cartasColecao" class="cartas-colecao"></div>
+      </section>
+    </section>
+  </main>
+
+  <button id="btnVoltarTopo" class="btn-voltar-topo" type="button" aria-label="Voltar ao topo" title="Voltar ao topo" hidden>↑</button>
+
+  <script src="colecao.js"></script>
+</body>
+</html>

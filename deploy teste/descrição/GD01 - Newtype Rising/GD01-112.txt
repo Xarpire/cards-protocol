@@ -1,0 +1,13 @@
+Extreme Hatred
+
+COLOR Red | TYPE COMMAND | RARITY R
+
+Lv. 6 | COST 1
+
+【Main】Choose 2 of your active Units. Rest them. If you do, choose 1 enemy Unit. Deal 3 damage to it.
+【Pilot】[Loni Garvey]
+
+Trait (Zeon) (Newtype)
+Link -
+
+AP +1 | HP +0

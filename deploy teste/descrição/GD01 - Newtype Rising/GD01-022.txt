@@ -1,0 +1,12 @@
+Cancer
+
+COLOR Blue | TYPE UNIT | RARITY C
+
+Lv. 2 | COST 2 
+
+-
+
+Trait (OZ)
+Link -
+
+AP 2 | HP 3

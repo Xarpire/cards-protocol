@@ -1,0 +1,14 @@
+13th Tactical Testing Sector
+
+COLOR White | TYPE BASE | RARITY C
+
+Lv. 3 | COST 1 
+
+【Burst】Deploy this card.
+【Deploy】Add 1 of your Shields to your hand.
+【Activate･Main】Rest this Base：If a friendly (Academy) Unit is in play, choose 1 enemy Unit. It gets AP-1 during this turn.
+
+Trait (Academy) (Stronghold)
+Link -
+
+AP 0 | HP 5

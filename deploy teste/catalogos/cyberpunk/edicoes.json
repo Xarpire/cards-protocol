@@ -1,0 +1,17 @@
+[
+  {
+    "codigo": "CP01",
+    "nome": "Welcome to Night City",
+    "imagem": "catalogos/cyberpunk/imagens/Booster welcome to night city/Retail_Booster_Pack.png"
+  },
+  {
+    "codigo": "CP02",
+    "nome": "Beta Booster",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/Beta_Booster_Pack.png"
+  },
+  {
+    "codigo": "CP03",
+    "nome": "Beta Pre-release",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Pre-release/Beta_Pre-release_Kit_Pre-release_Kit.png"
+  }
+]

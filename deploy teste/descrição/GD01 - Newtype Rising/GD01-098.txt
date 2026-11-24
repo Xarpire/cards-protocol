@@ -1,0 +1,13 @@
+Elan Ceres (Enhanced Person Number 4)
+
+COLOR White | TYPE PILOT | RARITY C
+
+Lv. 4 | COST 1 
+
+【Burst】Add this card to your hand.
+【Activate･Action】【Once per Turn】If an enemy Unit with 1 or less AP is in play, this Unit recovers 1 HP.
+
+Trait (Academy)
+Link -
+
+AP +2 | HP +1

@@ -1,0 +1,13 @@
+Duel Gundam
+
+COLOR Red | TYPE UNIT | RARITY R
+
+Lv. 3 | COST 2 
+
+While this Unit has 5 or more AP, it gains <Breach 3>.
+(When this Unit's attack destroys an enemy Unit, deal the specified amount of damage to the first card in that opponent's shield area.)
+
+Trait (ZAFT)
+Link (ZAFT) Trait
+
+AP 3 | HP 3

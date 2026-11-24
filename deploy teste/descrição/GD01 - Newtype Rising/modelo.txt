@@ -1,0 +1,44 @@
+Lv. x | COST x | COLOR x | TYPE UNIT | RARITY LR
+-
+Trait -
+Link -
+AP -
+HP -
+Source Title: Mobile Suit Gundam
+Where to get it: Newtype Rising [GD01]
+
+Lv. x | COST x | COLOR x | TYPE PILOT | RARITY X
+-
+Trait -
+Link -
+AP -
+HP -
+Source Title: Mobile Suit Gundam
+Where to get it: Newtype Rising [GD01]
+
+Lv. x | COST x | COLOR x | TYPE COMMAND | RARITY X
+-
+Trait -
+Link -
+AP -
+HP -
+Source Title: Mobile Suit Gundam
+Where to get it: Newtype Rising [GD01]
+
+TYPE UNIT TOKEN | RARITY X
+-
+Trait -
+Link -
+AP -
+HP -
+Source Title: Mobile Suit Gundam
+Where to get it: Newtype Rising [GD01]
+
+TYPE RESOURCE | RARITY C
+-
+Trait -
+Link -
+AP -
+HP -
+Source Title: Mobile Suit Gundam
+Where to get it: Newtype Rising [GD01]

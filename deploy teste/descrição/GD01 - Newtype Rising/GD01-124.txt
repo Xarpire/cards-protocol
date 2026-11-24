@@ -1,0 +1,14 @@
+Side 7
+
+COLOR Blue | TYPE BASE | RARITY C
+
+Lv. 1 | COST 1 
+
+【Burst】Deploy this card.
+【Deploy】Add 1 of your Shields to your hand.
+【Activate･Main】Rest this Base：Choose 1 friendly Unit. It recovers 1 HP.
+
+Trait (Earth Federation) (Stronghold)
+Link -
+
+AP 0 | HP 4

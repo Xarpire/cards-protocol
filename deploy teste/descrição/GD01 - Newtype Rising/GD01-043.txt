@@ -1,0 +1,12 @@
+Rasid's Maganac
+
+COLOR Green | TYPE UNIT | RARITY C
+
+Lv. 3 | COST 2 
+
+【Deploy】Choose 1 of your green Units. During this turn, it may choose an active enemy Unit with 4 or less AP as its attack target.
+
+Trait (Maganac Corps)
+Link (Maganac Corps) Trait
+
+AP 2 | HP 3

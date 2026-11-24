@@ -1,0 +1,13 @@
+M1 Astray
+
+COLOR White | TYPE UNIT | RARITY C
+
+Lv. 2 | COST 2 
+
+While you have another (Triple Ship Alliance) Unit in play, this Unit gets AP+1 and <Blocker>.
+(Rest this Unit to change the attack target to it.)
+
+Trait (Triple Ship Alliance)
+Link -
+
+AP 2 | HP 2

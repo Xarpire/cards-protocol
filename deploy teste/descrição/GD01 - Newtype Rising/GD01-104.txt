@@ -1,0 +1,13 @@
+Signs of a Revolution
+
+COLOR Blue | TYPE COMMAND | RARITY C
+
+Lv. 3 | COST 2 
+
+【Burst】Draw 1.
+【Main】Choose 1 rested enemy Unit. Deal 2 damage to it.
+
+Trait -
+Link -
+
+AP - | HP -

@@ -1,0 +1,12 @@
+G-Sky Easy
+
+COLOR Blue | TYPE UNIT | RARITY C
+
+Lv. 3 | COST 2 
+
+【During Link】【Activate･Action】【Once per Turn】Choose 1 Unit. It recovers 1 HP.
+
+Trait (Earth Federation) (White Base Team)
+Link (White Base Team) Trait
+
+AP 1 | HP 3

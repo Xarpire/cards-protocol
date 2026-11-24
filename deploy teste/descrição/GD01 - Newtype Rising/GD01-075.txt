@@ -1,0 +1,12 @@
+Darilbalde
+
+COLOR White | TYPE UNIT | RARITY U
+
+Lv. 3 | COST 2 
+
+【Deploy】Choose 1 enemy Unit with 1 HP. Return it to its owner's hand.
+
+Trait (Academy)
+Link (Academy) Trait
+
+AP 4 | HP 2

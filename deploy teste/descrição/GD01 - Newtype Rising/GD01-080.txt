@@ -1,0 +1,12 @@
+Cagalli's Skygrasper
+
+COLOR White | TYPE UNIT | RARITY C
+
+Lv. 2 | COST 2 
+
+【Destroyed】Choose 1 enemy Unit that is Lv.2 or lower. Return it to its owner's hand.
+
+Trait (Earth Alliance)
+Link [Cagalli Yula Athha]
+
+AP 2 | HP 1

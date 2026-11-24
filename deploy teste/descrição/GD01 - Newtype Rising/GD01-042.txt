@@ -1,0 +1,12 @@
+Duo's Leo
+
+COLOR Green | TYPE UNIT | RARITY C
+
+Lv. 2 | COST 2 
+
+This Unit may choose an active enemy Unit that is Lv.2 or lower as its attack target.
+
+Trait (Operation Meteor)
+Link [Duo Maxwell]
+
+AP 2 | HP 2

@@ -1,0 +1,12 @@
+Skygrasper
+
+COLOR White | TYPE UNIT | RARITY C
+
+Lv. 2 | COST 2 
+
+-
+
+Trait (Earth Alliance)
+Link (Earth Alliance) Trait
+
+AP 2 | HP 2

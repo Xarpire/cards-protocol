@@ -1,0 +1,12 @@
+ReZEL
+
+COLOR Blue | TYPE UNIT | RARITY C
+
+Lv. 3 | COST 2 
+
+-
+
+Trait (Earth Federation)
+Link -
+
+AP 4 | HP 3

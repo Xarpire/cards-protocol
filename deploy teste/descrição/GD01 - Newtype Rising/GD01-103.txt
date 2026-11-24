@@ -1,0 +1,13 @@
+The Stubborn Cog
+
+COLOR Blue | TYPE COMMAND | RARITY C
+
+Lv. 1 | COST 1 
+
+【Main】Choose 1 active friendly (Earth Federation) Unit and 1 active enemy Unit. Rest them.
+【Pilot】[Daguza Mackle]
+
+Trait (Earth Federation)
+Link -
+
+AP +0 | HP +1

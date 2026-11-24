@@ -1,0 +1,13 @@
+Shenlong Gundam
+
+COLOR Green | TYPE UNIT | RARITY R
+
+Lv. 5 | COST 4 
+
+<Breach 4> (When this Unit's attack destroys an enemy Unit, deal the specified amount of damage to the first card in that opponent's shield area.)
+【Attack】Choose 1 enemy Unit with <Blocker> that is Lv.3 or lower. Destroy it.
+
+Trait (Operation Meteor)
+Link [Chang Wufei]
+
+AP 4 | HP 4

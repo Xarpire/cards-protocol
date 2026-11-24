@@ -1,0 +1,12 @@
+Gundam Sandrock
+
+COLOR Green | TYPE UNIT | RARITY R
+
+Lv. 5 | COST 3 
+
+【Deploy】You may deploy 1 (Maganac Corps) Unit card from your hand.
+
+Trait (Operation Meteor)
+Link [Quatre Raberba Winner]
+
+AP 4 | HP 4

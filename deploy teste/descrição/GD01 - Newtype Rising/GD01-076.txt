@@ -1,0 +1,12 @@
+Michaelis
+
+COLOR White | TYPE UNIT | RARITY U
+
+Lv. 3 | COST 2 
+
+While there are 4 or more Command cards in your trash, this Unit gets AP+1 and HP+1.
+
+Trait (Academy)
+Link (Academy) Trait
+
+AP 3 | HP 3

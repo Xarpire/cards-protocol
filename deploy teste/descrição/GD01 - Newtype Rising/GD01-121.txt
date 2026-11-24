@@ -1,0 +1,13 @@
+Midair Modifications
+
+COLOR White | TYPE COMMAND | RARITY U
+
+Lv. 3 | COST 2
+
+【Burst】Activate this card's 【Main】.
+【Main】Choose 1 rested Unit with <Blocker>. Set it as active. It can't attack during this turn.
+
+Trait -
+Link -
+
+AP - | HP -

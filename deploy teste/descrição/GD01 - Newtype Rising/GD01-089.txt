@@ -1,0 +1,13 @@
+Riddhe Marcenas
+
+COLOR Blue | TYPE PILOT | RARITY C
+
+Lv. 3 | COST 1 
+
+【Burst】Add this card to your hand.
+While this Unit has <Repair>, it gets AP+1.
+
+Trait (Earth Federation)
+Link -
+
+AP +1 | HP +1

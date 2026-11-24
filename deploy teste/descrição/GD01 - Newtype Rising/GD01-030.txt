@@ -1,0 +1,12 @@
+Rick Dom
+
+COLOR Green | TYPE UNIT | RARITY U
+
+Lv. 3 | COST 2 
+
+<Breach 2> (When this Unit's attack destroys an enemy Unit, deal the specified amount of damage to the first card in that opponent's shield area.)
+
+Trait (Zeon)
+Link -
+
+AP 3 | HP 3

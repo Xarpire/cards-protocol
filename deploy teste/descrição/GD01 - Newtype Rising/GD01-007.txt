@@ -1,0 +1,12 @@
+Noin's Aries
+
+COLOR Blue | TYPE UNIT | RARITY R
+
+Lv. 3 | COST 3 
+
+Destroyed】If you have another (OZ) Unit in play, draw 1.
+
+Trait (OZ)
+Link [Lucrezia Noin]
+
+AP 2 | HP 3

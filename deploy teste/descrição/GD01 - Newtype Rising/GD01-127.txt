@@ -1,0 +1,13 @@
+Gamow
+
+Lv. 2 | COST 1 
+
+【Burst】Deploy this card.
+【Deploy】Add 1 of your Shields to your hand.
+【Activate･Action】Rest this Base：Choose 1 friendly (ZAFT) Unit with 5 or more AP. It gains <Breach 3> during this battle.
+(When this Unit's attack destroys an enemy Unit, deal the specified amount of damage to the first card in that opponent's shield area.)
+
+Trait (ZAFT) (Warship)
+Link -
+
+AP 0 | HP 5

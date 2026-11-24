@@ -1,0 +1,13 @@
+Duo Maxwell
+
+COLOR Green | TYPE PILOT | RARITY R
+
+Lv. 4 | COST 1 
+
+【Burst】Add this card to your hand.
+【During Link】This Unit's AP can't be reduced by enemy effects.
+
+Trait (Operation Meteor)
+Link -
+
+AP +1 | HP +2

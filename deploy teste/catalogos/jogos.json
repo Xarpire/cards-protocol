@@ -1,0 +1,24 @@
+[
+  {
+    "id": "gundam",
+    "nome": "Gundam Card Game",
+    "icone": "🤖",
+    "catalogo": "cartas.json",
+    "edicoes": [
+      { "codigo": "GD01", "nome": "Newtype Rising", "imagem": "imagens/Edições/GD01pack.jpg" },
+      { "codigo": "GD02", "nome": "Dual Impact", "imagem": "imagens/Edições/GD02pack.jpg" },
+      { "codigo": "GD03", "nome": "Steel Requiem", "imagem": "imagens/Edições/GD03pack.jpg" },
+      { "codigo": "GD04", "nome": "Phantom Aria", "imagem": "imagens/Edições/GD04pack.jpg" },
+      { "codigo": "GD05", "nome": "Freedom Ascension", "imagem": "imagens/Edições/GD05pack.jpg" },
+      { "codigo": "GD06", "nome": "Stardust Trails", "imagem": "imagens/Edições/GD06pack.jpg" },
+      { "codigo": "EB01", "nome": "Eternal Nexus", "imagem": "imagens/Edições/EB01pack.jpg" }
+    ]
+  },
+  {
+    "id": "cyberpunk",
+    "nome": "Cyberpunk TCG",
+    "icone": "🌃",
+    "catalogo": "catalogos/cyberpunk/cartas.json",
+    "edicoes": "catalogos/cyberpunk/edicoes.json"
+  }
+]

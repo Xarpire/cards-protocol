@@ -1,0 +1,13 @@
+Kusanagi
+
+COLOR White | TYPE BASE | RARITY U
+
+Lv. 4 | COST 2 
+
+【Burst】Deploy this card.
+【Deploy】Add 1 of your Shields to your hand. Then, choose 1 enemy Unit with 3 or less HP. Return it to its owner's hand.
+
+Trait (Triple Ship Alliance) (Warship)
+Link -
+
+AP 0 | HP 4

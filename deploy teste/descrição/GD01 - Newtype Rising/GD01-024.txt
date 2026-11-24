@@ -1,0 +1,13 @@
+Wing Gundam Zero
+
+COLOR Green | TYPE UNIT | RARITY LR
+
+Lv. 8 | COST 8
+
+<High-Maneuver> (This Unit can't be blocked.)
+【Deploy】Deal 3 damage to all Units that are Lv.5 or lower.
+
+Trait (G Team)
+Link [Heero Yuy]
+
+AP 5 | HP 7

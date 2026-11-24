@@ -1,0 +1,13 @@
+The Desert Tiger
+
+COLOR Red | TYPE COMMAND | RARITY U
+
+Lv. 3 | COST 1
+
+【Main】/【Action】Choose 1 friendly (ZAFT) Unit. It gets AP+3 during this turn.
+【Pilot】[Andrew Waldfeld]
+
+Trait (ZAFT) (Coordinator)
+Link -
+
+AP +1 | HP +0

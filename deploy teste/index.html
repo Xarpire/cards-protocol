@@ -1,0 +1,218 @@
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Catálogo de Cartas</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header class="barra-topo">
+    <a class="marca" href="#" aria-label="Minha Coleção - início">
+      <span class="marca-icone">✦</span>
+      <span class="marca-texto">
+        <strong>Minha Coleção</strong>
+        <small>Catálogo pessoal</small>
+      </span>
+    </a>
+    <nav class="menu-topo">
+      <ul>
+        <li><a id="linkJogos" class="ativo" href="#seletorEdicao">Jogos</a></li>
+        <li><a href="/colecao.html">Minha coleção</a></li>
+        <li><a href="#">Singles</a></li>
+        <li><a href="#">Lojas</a></li>
+        <li><a href="#">Decks</a></li>
+      </ul>
+    </nav>
+    <div class="topo-acoes">
+      <h1 class="titulo">Sua coleção, organizada.</h1>
+      <button id="btnCamera" class="btn-tema btn-camera" type="button" aria-label="Identificar carta pela câmera" title="Identificar carta pela câmera">
+        <svg viewBox="0 0 24 24" aria-hidden="true">
+          <path d="M4 7h3l1.5-2h7L17 7h3a1 1 0 0 1 1 1v11H3V8a1 1 0 0 1 1-1Z"></path>
+          <circle cx="12" cy="13" r="3.5"></circle>
+        </svg>
+      </button>
+      <a class="link-topo link-minha-colecao" href="/colecao.html">Coleção</a>
+      <a id="linkAcesso" class="link-topo" href="/acesso.html?voltar=%2F">Entrar</a>
+      <button id="btnSair" class="link-topo btn-sair" type="button" hidden>Sair</button>
+      <button id="btnTema" class="btn-tema" onclick="alternarTema()" title="Alternar tema">🌙</button>
+    </div>
+  </header>
+
+  <input id="cameraFoto" class="camera-input" type="file" accept="image/*" capture="environment" aria-label="Tirar foto da carta">
+  <div id="cameraLeitor" class="camera-leitor" role="dialog" aria-modal="true" aria-labelledby="cameraTitulo" aria-hidden="true">
+    <div class="camera-conteudo">
+      <button id="cameraFechar" class="camera-fechar" type="button" aria-label="Fechar">&times;</button>
+      <h2 id="cameraTitulo">Identificar carta</h2>
+      <p id="cameraStatus" class="camera-status" role="status" aria-live="polite">Tire uma foto da carta inteira, com boa iluminação.</p>
+      <img id="cameraPreview" class="camera-preview" alt="Foto tirada da carta" hidden>
+      <div id="cameraResultado" class="camera-resultado" hidden>
+        <img id="cameraCartaImagem" alt="">
+        <div>
+          <strong id="cameraCartaNome"></strong>
+          <p id="cameraCartaDetalhes"></p>
+          <button id="cameraAbrirCarta" type="button">Ver carta</button>
+        </div>
+      </div>
+      <button id="cameraTentarNovamente" class="camera-repetir" type="button">Tirar outra foto</button>
+    </div>
+  </div>
+
+  <section id="seletorEdicao" class="seletor-edicao" aria-labelledby="tituloSelecaoEdicao">
+    <div class="painel-selecao-edicao">
+      <p class="etiqueta-selecao-edicao">MINHA COLEÇÃO</p>
+      <h1 id="tituloSelecaoEdicao">Escolha um jogo</h1>
+      <p id="estadoSelecaoEdicao" class="estado-selecao-edicao" role="status" aria-live="polite">
+        Carregando os jogos disponíveis...
+      </p>
+      <div id="opcoesJogos" class="opcoes-jogos"></div>
+      <section id="selecaoEdicoes" hidden>
+        <button id="btnVoltarJogos" class="botao-secundario" type="button">← Voltar aos jogos</button>
+        <h2 id="tituloEdicoesJogo" class="titulo-edicoes-jogo"></h2>
+        <div id="opcoesEdicao" class="opcoes-edicao"></div>
+        <p id="avisoSemEdicoes" class="aviso-sem-edicoes" hidden></p>
+      </section>
+    </div>
+  </section>
+
+  <main id="paginaCatalogo" hidden>
+  <aside id="barraFiltros" class="barra-lateral" aria-label="Filtros da coleção">
+    <button id="btnExpandirFiltros" class="barra-filtros-toggle" type="button" aria-controls="conteudoFiltros" aria-expanded="false">
+      <span>Filtros</span>
+      <span class="barra-filtros-seta" aria-hidden="true">⌄</span>
+    </button>
+
+    <div id="conteudoFiltros" class="conteudo-filtros">
+      <div class="conteudo-filtros-interno">
+        <div class="secao-busca">
+          <input type="text" id="busca" class="busca-input" placeholder="Buscar por nome ou número da coleção..." onkeyup="aplicarFiltros()">
+        </div>
+
+        <div class="seletores">
+          <div class="seletor-cartas">
+            <label for="cor">Cor:</label>
+            <select id="cor" onchange="aplicarFiltros()">
+              <option value="" selected>Todas</option>
+              <option value="Blue">Blue</option>
+              <option value="Green">Green</option>
+              <option value="Red">Red</option>
+              <option value="Yellow">Yellow</option>
+              <option value="White">White</option>
+              <option value="Purple">Purple</option>
+              <option value="Desconhecida">Desconhecida</option>
+            </select>
+          </div>
+          <div class="seletor-cartas">
+            <label for="raridade">Raridade:</label>
+            <select id="raridade" onchange="aplicarFiltros()">
+              <option value="">Todas</option>
+              <option value="LR">LR</option>
+              <option value="LR+">LR+</option>
+              <option value="LR++">LR++</option>
+              <option value="R">R</option>
+              <option value="R+">R+</option>
+              <option value="U">U</option>
+              <option value="U+">U+</option>
+              <option value="C">C</option>
+              <option value="C+">C+</option>
+              <option value="C++">C++</option>
+              <option value="SP">SP</option>
+              <option value="Beta">Beta</option>
+            </select>
+          </div>
+          <div class="seletor-cartas">
+            <label for="tipo">Tipo:</label>
+            <select id="tipo" onchange="aplicarFiltros()">
+              <option value="">Todos</option>
+              <option value="UNIT">UNIT</option>
+              <option value="COMMAND">COMMAND</option>
+              <option value="PILOT">PILOT</option>
+              <option value="LEGEND">LEGEND</option>
+              <option value="GEAR">GEAR</option>
+              <option value="CARD">CARD</option>
+            </select>
+          </div>
+          <div class="seletor-cartas">
+            <label for="ordenacao">Ordenar por:</label>
+            <select id="ordenacao" onchange="aplicarFiltros()">
+              <option value="padrao">Padrão</option>
+              <option value="nome">Nome A-Z</option>
+              <option value="raridade">Raridade</option>
+              <option value="tipo">Tipo</option>
+            </select>
+          </div>
+          <div class="seletor-cartas">
+            <label for="visualizacao">Visualização:</label>
+            <select id="visualizacao" onchange="mudarVisualizacao()">
+              <option value="grid" selected>Grid</option>
+              <option value="lista">Lista</option>
+            </select>
+          </div>
+          <div class="seletor-cartas">
+            <label for="cartasPorPagina">Cartas por página:</label>
+            <select id="cartasPorPagina" onchange="mudarCartasPorPagina()">
+              <option value="9" selected>9</option>
+              <option value="12">12</option>
+              <option value="24">24</option>
+            </select>
+          </div>
+        </div>
+      </div>
+    </div>
+  </aside>
+  <div id="filtrosEspacador" class="filtros-espacador" aria-hidden="true"></div>
+  <button id="btnFiltrosFlutuante" class="btn-filtros-flutuante" onclick="alternarFiltros()" aria-controls="conteudoFiltros" aria-expanded="false" title="Abrir filtros">☰</button>
+
+  <div class="catalogo-edicao-atual">
+    <div>
+      <span class="rotulo-edicao-atual" id="nomeJogoAtual"></span>
+      <span class="rotulo-edicao-atual">Coleção selecionada</span>
+      <strong id="nomeEdicaoAtual"></strong>
+    </div>
+    <button id="btnTrocarEdicao" type="button">Trocar coleção</button>
+    <button id="btnTrocarJogo" type="button">Trocar jogo</button>
+  </div>
+
+  <section class="colecao-toolbar" aria-label="Salvar coleção">
+    <span id="estadoColecao" role="status" aria-live="polite">Carregando coleção...</span>
+    <button id="btnSalvarColecao" type="button">Salvar coleção</button>
+  </section>
+
+  <div id="catalogo" class="catalogo"></div>
+
+  <div class="paginacao">
+    <button onclick="paginaAnterior()">Anterior</button>
+    <span id="paginaAtual"></span>
+    <button onclick="proximaPagina()">Próxima</button>
+  </div>
+  </main>
+
+  <button id="btnVoltarTopo" class="btn-voltar-topo" type="button" aria-label="Voltar ao topo" title="Voltar ao topo" hidden>↑</button>
+
+  <!-- Modal -->
+  <div id="modal" class="modal">
+
+    <div class="modal-conteudo">
+
+      <span class="fechar" onclick="fecharModal()">&times;</span>
+
+      <div class="modal-layout">
+
+        <img id="modalImagem" class="modal-imagem">
+
+        <div class="modal-info">
+          <h2 id="modalTitulo"></h2>
+          <pre id="modalDescricao"></pre>
+        </div>
+
+      </div>
+
+    </div>
+
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,12 @@
+Dopp
+
+COLOR Green | TYPE UNIT | RARITY C
+
+Lv. 1 | COST 1 
+
+【Deploy】Look at the top card of your deck. Return it to the top or bottom of your deck.
+
+Trait (Zeon)
+Link -
+
+AP 1 | HP 1

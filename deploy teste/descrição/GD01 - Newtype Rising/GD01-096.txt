@@ -1,0 +1,14 @@
+Cagalli Yula Athha
+
+COLOR White | TYPE PILOT | RARITY R
+
+Lv. 4 | COST 1
+
+【Burst】Add this card to your hand.
+While this Unit is white, it gains <Blocker>.
+(Rest this Unit to change the attack target to it.)
+
+Trait (Orb)
+Link -
+
+AP +1 | HP +1

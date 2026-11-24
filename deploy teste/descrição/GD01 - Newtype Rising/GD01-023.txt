@@ -1,0 +1,12 @@
+Char's Gelgoog
+
+COLOR Green| TYPE UNIT | RARITY LR
+
+Lv. 4 | COST 4 
+
+【Activate･Main】Discard 1 (Zeon)/(Neo Zeon) Unit card：If a Pilot is not paired with this Unit, choose 1 (Newtype) Pilot card that is Lv.3 or lower from your trash. Pair it with this Unit.
+
+Trait (Zeon)
+Link [Char Aznable]
+
+AP 4 | HP 3

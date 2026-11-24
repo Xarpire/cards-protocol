@@ -1,0 +1,12 @@
+Zee Zulu
+
+COLOR Red | TYPE UNIT | RARITY C
+
+Lv. 2 | COST 2 
+
+【Attack】If you are attacking the enemy player, this Unit gets AP+2 during this battle.
+
+Trait (Neo Zeon)
+Link -
+
+AP 2 | HP 2

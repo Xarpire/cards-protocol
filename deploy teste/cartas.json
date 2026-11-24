@@ -1,0 +1,2927 @@
+﻿[
+    {
+        "serial": "GD01-001",
+        "nome": "Gundam",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-001.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-001.txt",
+        "tipo": "UNIT",
+        "raridade": "LR",
+        "cor": "Blue"
+    },
+    {
+        "serial": "GD01-001",
+        "nome": "Gundam",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-001_p1.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-001.txt",
+        "tipo": "UNIT",
+        "raridade": "LR+",
+        "cor": "Blue"
+    },
+    {
+        "serial": "GD01-001",
+        "nome": "Gundam",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-001_p2.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-001.txt",
+        "tipo": "UNIT",
+        "raridade": "LR++",
+        "cor": "Blue"
+    },
+    {
+        "serial": "GD01-002",
+        "nome": "Unicorn Gundam (Destroy Mode)",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-002.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-002.txt",
+        "tipo": "UNIT",
+        "raridade": "LR",
+        "cor": "Blue"
+    },
+    {
+        "serial": "GD01-003",
+        "nome": "Unicorn Gundam 02 Banshee (Destroy Mode)",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-003.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-003.txt",
+        "tipo": "UNIT",
+        "raridade": "LR",
+        "cor": "Blue"
+    },
+    {
+        "serial": "GD01-004",
+        "nome": "Guncannon",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-004.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-004.txt",
+        "tipo": "UNIT",
+        "raridade": "R",
+        "cor": "Blue"
+    },
+    {
+        "serial": "GD01-005",
+        "nome": "Unicorn Gundam (Unicorn Mode)",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-005.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-005.txt",
+        "tipo": "UNIT",
+        "raridade": "R",
+        "cor": "Blue"
+    },
+    {
+        "serial": "GD01-006",
+        "nome": "Delta Plus",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-006.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-006.txt",
+        "tipo": "UNIT",
+        "raridade": "R",
+        "cor": "Blue"
+    },
+    {
+        "serial": "GD01-007",
+        "nome": "Noin's Aries",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-007.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-007.txt",
+        "tipo": "UNIT",
+        "raridade": "R",
+        "cor": "Blue"
+    },
+    {
+        "serial": "GD01-008",
+        "nome": "Guntank",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-008.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-008.txt",
+        "tipo": "UNIT",
+        "raridade": "U",
+        "cor": "Blue"
+    },
+    {
+        "serial": "GD01-009",
+        "nome": "G-Fighter",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-009.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-009.txt",
+        "tipo": "UNIT",
+        "raridade": "U",
+        "cor": "Blue"
+    },
+    {
+        "serial": "GD01-010",
+        "nome": "Unicorn Gundam 02 Banshee (Unicorn Mode)",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-010.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-010.txt",
+        "tipo": "UNIT",
+        "raridade": "R",
+        "cor": "Blue"
+    },
+    {
+        "serial": "GD01-011",
+        "nome": "Loto",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-011.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-011.txt",
+        "tipo": "UNIT",
+        "raridade": "U",
+        "cor": "Blue"
+    },
+    {
+        "serial": "GD01-012",
+        "nome": "Zech's Leo",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-012.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-012.txt",
+        "tipo": "UNIT",
+        "raridade": "U",
+        "cor": "Blue"
+    },
+    {
+        "serial": "GD01-013",
+        "nome": "Gundam",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-013.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-013.txt",
+        "tipo": "UNIT",
+        "raridade": "C",
+        "cor": "Blue"
+    },
+    {
+        "serial": "GD01-014",
+        "nome": "G-Sky Easy",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-014.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-014.txt",
+        "tipo": "UNIT",
+        "raridade": "C",
+        "cor": "Blue"
+    },
+    {
+        "serial": "GD01-015",
+        "nome": "Ball",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-015.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-015.txt",
+        "tipo": "UNIT",
+        "raridade": "C",
+        "cor": "Blue"
+    },
+    {
+        "serial": "GD01-016",
+        "nome": "Jegan",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-016.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-016.txt",
+        "tipo": "UNIT",
+        "raridade": "C",
+        "cor": "Blue"
+    },
+    {
+        "serial": "GD01-017",
+        "nome": "Stark Jegan",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-017.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-017.txt",
+        "tipo": "UNIT",
+        "raridade": "C",
+        "cor": "Blue"
+    },
+    {
+        "serial": "GD01-018",
+        "nome": "ReZel",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-018.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-018.txt",
+        "tipo": "UNIT",
+        "raridade": "C",
+        "cor": "Blue"
+    },
+    {
+        "serial": "GD01-019",
+        "nome": "Byarlant Custom",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-019.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-019.txt",
+        "tipo": "UNIT",
+        "raridade": "U",
+        "cor": "Blue"
+    },
+    {
+        "serial": "GD01-020",
+        "nome": "Anksha",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-020.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-020.txt",
+        "tipo": "UNIT",
+        "raridade": "C",
+        "cor": "Blue"
+    },
+    {
+        "serial": "GD01-021",
+        "nome": "Pisces",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-021.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-021.txt",
+        "tipo": "UNIT",
+        "raridade": "C",
+        "cor": "Blue"
+    },
+    {
+        "serial": "GD01-022",
+        "nome": "Cancer",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-022.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-022.txt",
+        "tipo": "UNIT",
+        "raridade": "C",
+        "cor": "Blue"
+    },
+    {
+        "serial": "GD01-023",
+        "nome": "Char's Gelgoog",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-023.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-023.txt",
+        "tipo": "UNIT",
+        "raridade": "LR",
+        "cor": "Green"
+    },
+    {
+        "serial": "GD01-024",
+        "nome": "Wing Gundam Zero",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-024.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-024.txt",
+        "tipo": "UNIT",
+        "raridade": "LR",
+        "cor": "Green"
+    },
+    {
+        "serial": "GD01-025",
+        "nome": "Gundam Deathscythe",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-025.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-025.txt",
+        "tipo": "UNIT",
+        "raridade": "LR",
+        "cor": "Green"
+    },
+    {
+        "serial": "GD01-026",
+        "nome": "Char's Zaku II",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-026.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-026.txt",
+        "tipo": "UNIT",
+        "raridade": "R",
+        "cor": "Green"
+    },
+    {
+        "serial": "GD01-027",
+        "nome": "Big Zam",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-027.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-027.txt",
+        "tipo": "UNIT",
+        "raridade": "R",
+        "cor": "Green"
+    },
+    {
+        "serial": "GD01-028",
+        "nome": "Gundam Sandrock",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-028.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-028.txt",
+        "tipo": "UNIT",
+        "raridade": "R",
+        "cor": "Green"
+    },
+    {
+        "serial": "GD01-029",
+        "nome": "Shenlong Gundam",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-029.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-029.txt",
+        "tipo": "UNIT",
+        "raridade": "R",
+        "cor": "Green"
+    },
+    {
+        "serial": "GD01-030",
+        "nome": "Rick dom",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-030.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-030.txt",
+        "tipo": "UNIT",
+        "raridade": "U",
+        "cor": "Green"
+    },
+    {
+        "serial": "GD01-031",
+        "nome": "Gelgoog",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-031.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-031.txt",
+        "tipo": "UNIT",
+        "raridade": "U",
+        "cor": "Green"
+    },
+    {
+        "serial": "GD01-032",
+        "nome": "Gyan",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-032.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-032.txt",
+        "tipo": "UNIT",
+        "raridade": "R",
+        "cor": "Green"
+    },
+    {
+        "serial": "GD01-033",
+        "nome": "Gundam Deathscythe",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-033.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-033.txt",
+        "tipo": "UNIT",
+        "raridade": "U",
+        "cor": "Green"
+    },
+    {
+        "serial": "GD01-034",
+        "nome": "Gudnam Heavyarms",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-034.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-034.txt",
+        "tipo": "UNIT",
+        "raridade": "U",
+        "cor": "Green"
+    },
+    {
+        "serial": "GD01-035",
+        "nome": "Zaku II",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-035.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-035.txt",
+        "tipo": "UNIT",
+        "raridade": "C",
+        "cor": "Green"
+    },
+    {
+        "serial": "GD01-036",
+        "nome": "Gouf",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-036.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-036.txt",
+        "tipo": "UNIT",
+        "raridade": "C",
+        "cor": "Green"
+    },
+    {
+        "serial": "GD01-037",
+        "nome": "Gogg",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-037.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-037.txt",
+        "tipo": "UNIT",
+        "raridade": "C",
+        "cor": "Green"
+    },
+    {
+        "serial": "GD01-038",
+        "nome": "Adzam",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-038.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-038.txt",
+        "tipo": "UNIT",
+        "raridade": "U",
+        "cor": "Green"
+    },
+    {
+        "serial": "GD01-039",
+        "nome": "Dopp",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-039.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-039.txt",
+        "tipo": "UNIT",
+        "raridade": "C",
+        "cor": "Green"
+    },
+    {
+        "serial": "GD01-040",
+        "nome": "Wing Gundam",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-040.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-040.txt",
+        "tipo": "UNIT",
+        "raridade": "C",
+        "cor": "Green"
+    },
+    {
+        "serial": "GD01-041",
+        "nome": "Shenlong Gundam",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-041.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-041.txt",
+        "tipo": "UNIT",
+        "raridade": "C",
+        "cor": "Green"
+    },
+    {
+        "serial": "GD01-042",
+        "nome": "Duo's Leo",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-042.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-042.txt",
+        "tipo": "UNIT",
+        "raridade": "C",
+        "cor": "Green"
+    },
+    {
+        "serial": "GD01-043",
+        "nome": "Rasid's Maganac",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-043.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-043.txt",
+        "tipo": "UNIT",
+        "raridade": "C",
+        "cor": "Green"
+    },
+    {
+        "serial": "GD01-044",
+        "nome": "Kshatriya",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-044.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-044.txt",
+        "tipo": "UNIT",
+        "raridade": "LR",
+        "cor": "Red"
+    },
+    {
+        "serial": "GD01-045",
+        "nome": "Duel Gundam (Assault Shroud)",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-045.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-045.txt",
+        "tipo": "UNIT",
+        "raridade": "LR",
+        "cor": "Red"
+    },
+    {
+        "serial": "GD01-046",
+        "nome": "Buster Gundam",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-046.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-046.txt",
+        "tipo": "UNIT",
+        "raridade": "LR",
+        "cor": "Red"
+    },
+    {
+        "serial": "GD01-047",
+        "nome": "Shambloo",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-047.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-047.txt",
+        "tipo": "UNIT",
+        "raridade": "R",
+        "cor": "Red"
+    },
+    {
+        "serial": "GD01-048",
+        "nome": "Zaku I Sniper Type",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-048.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-048.txt",
+        "tipo": "UNIT",
+        "raridade": "R",
+        "cor": "Red"
+    },
+    {
+        "serial": "GD01-049",
+        "nome": "Blitz Gundam",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-049.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-049.txt",
+        "tipo": "UNIT",
+        "raridade": "R",
+        "cor": "Red"
+    },
+    {
+        "serial": "GD01-050",
+        "nome": "LaGOWE",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-050.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-050.txt",
+        "tipo": "UNIT",
+        "raridade": "R",
+        "cor": "Red"
+    },
+    {
+        "serial": "GD01-051",
+        "nome": "Kshatriya",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-051.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-051.txt",
+        "tipo": "UNIT",
+        "raridade": "U",
+        "cor": "Red"
+    },
+    {
+        "serial": "GD01-052",
+        "nome": "Geara Zulu (Guards Type)",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-052.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-052.txt",
+        "tipo": "UNIT",
+        "raridade": "U",
+        "cor": "Red"
+    },
+    {
+        "serial": "GD01-053",
+        "nome": "Geara Doga (Heavy Armed Type)",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-053.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-053.txt",
+        "tipo": "UNIT",
+        "raridade": "U",
+        "cor": "Red"
+    },
+    {
+        "serial": "GD01-054",
+        "nome": "Duel Gundam",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-054.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-054.txt",
+        "tipo": "UNIT",
+        "raridade": "R",
+        "cor": "Red"
+    },
+    {
+        "serial": "GD01-055",
+        "nome": "BuCUE",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-055.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-055.txt",
+        "tipo": "UNIT",
+        "raridade": "U",
+        "cor": "Red"
+    },
+    {
+        "serial": "GD01-056",
+        "nome": "Geara Doga (sleeves)",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-056.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-056.txt",
+        "tipo": "UNIT",
+        "raridade": "C",
+        "cor": "Red"
+    },
+    {
+        "serial": "GD01-057",
+        "nome": "Dreissen (Sleeves)",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-057.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-057.txt",
+        "tipo": "UNIT",
+        "raridade": "C",
+        "cor": "Red"
+    },
+    {
+        "serial": "GD01-058",
+        "nome": "Gallus-K",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-058.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-058.txt",
+        "tipo": "UNIT",
+        "raridade": "C",
+        "cor": "Red"
+    },
+    {
+        "serial": "GD01-059",
+        "nome": "Zee Zulu",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-059.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-059.txt",
+        "tipo": "UNIT",
+        "raridade": "C",
+        "cor": "Red"
+    },
+    {
+        "serial": "GD01-060",
+        "nome": "Zaku Mariner",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-060.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-060.txt",
+        "tipo": "UNIT",
+        "raridade": "C",
+        "cor": "Red"
+    },
+    {
+        "serial": "GD01-061",
+        "nome": "ZuOOT",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-061.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-061.txt",
+        "tipo": "UNIT",
+        "raridade": "C",
+        "cor": "Red"
+    },
+    {
+        "serial": "GD01-062",
+        "nome": "GOOhN",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-062.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-062.txt",
+        "tipo": "UNIT",
+        "raridade": "C",
+        "cor": "Red"
+    },
+    {
+        "serial": "GD01-063",
+        "nome": "ZnO",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-063.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-063.txt",
+        "tipo": "UNIT",
+        "raridade": "U",
+        "cor": "Red"
+    },
+    {
+        "serial": "GD01-064",
+        "nome": "DINN",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-064.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-064.txt",
+        "tipo": "UNIT",
+        "raridade": "C",
+        "cor": "Red"
+    },
+    {
+        "serial": "GD01-065",
+        "nome": "Freedom Gundam",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-065.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-065.txt",
+        "tipo": "UNIT",
+        "raridade": "LR",
+        "cor": "White"
+    },
+    {
+        "serial": "GD01-066",
+        "nome": "Justice Gundam",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-066.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-066.txt",
+        "tipo": "UNIT",
+        "raridade": "LR",
+        "cor": "White"
+    },
+    {
+        "serial": "GD01-067",
+        "nome": "Gundam Aerial Rebuild",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-067.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-067.txt",
+        "tipo": "UNIT",
+        "raridade": "LR",
+        "cor": "White"
+    },
+    {
+        "serial": "GD01-068",
+        "nome": "Perfect Strike Gundam",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-068.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-068.txt",
+        "tipo": "UNIT",
+        "raridade": "R",
+        "cor": "White"
+    },
+    {
+        "serial": "GD01-069",
+        "nome": "Strike Rouge",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-069.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-069.txt",
+        "tipo": "UNIT",
+        "raridade": "R",
+        "cor": "White"
+    },
+    {
+        "serial": "GD01-070",
+        "nome": "Gundam Aerial",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-070.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-070.txt",
+        "tipo": "UNIT",
+        "raridade": "R",
+        "cor": "White"
+    },
+    {
+        "serial": "GD01-071",
+        "nome": "Gundam Pharact",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-071.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-071.txt",
+        "tipo": "UNIT",
+        "raridade": "R",
+        "cor": "White"
+    },
+    {
+        "serial": "GD01-072",
+        "nome": "Launcher Strike Gundam",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-072.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-072.txt",
+        "tipo": "UNIT",
+        "raridade": "U",
+        "cor": "White"
+    },
+    {
+        "serial": "GD01-073",
+        "nome": "Sword Strike Gundam",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-073.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-073.txt",
+        "tipo": "UNIT",
+        "raridade": "U",
+        "cor": "White"
+    },
+    {
+        "serial": "GD01-074",
+        "nome": "Chuchu's Demi Trainer",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-074.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-074.txt",
+        "tipo": "UNIT",
+        "raridade": "R",
+        "cor": "White"
+    },
+    {
+        "serial": "GD01-075",
+        "nome": "Darilbalde",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-075.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-075.txt",
+        "tipo": "UNIT",
+        "raridade": "U",
+        "cor": "White"
+    },
+    {
+        "serial": "GD01-076",
+        "nome": "Michaelis",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-076.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-076.txt",
+        "tipo": "UNIT",
+        "raridade": "U",
+        "cor": "White"
+    },
+    {
+        "serial": "GD01-077",
+        "nome": "Strike Gundam",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-077.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-077.txt",
+        "tipo": "UNIT",
+        "raridade": "C",
+        "cor": "White"
+    },
+    {
+        "serial": "GD01-078",
+        "nome": "Mistral",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-078.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-078.txt",
+        "tipo": "UNIT",
+        "raridade": "C",
+        "cor": "White"
+    },
+    {
+        "serial": "GD01-079",
+        "nome": "Skygrasper",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-079.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-079.txt",
+        "tipo": "UNIT",
+        "raridade": "C",
+        "cor": "White"
+    },
+    {
+        "serial": "GD01-080",
+        "nome": "Cagalli's Skygrasper",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-080.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-080.txt",
+        "tipo": "UNIT",
+        "raridade": "C",
+        "cor": "White"
+    },
+    {
+        "serial": "GD01-081",
+        "nome": "M1 Astray",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-081.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-081.txt",
+        "tipo": "UNIT",
+        "raridade": "C",
+        "cor": "White"
+    },
+    {
+        "serial": "GD01-082",
+        "nome": "Gundam Aerial (Mirasoul Flight Unit)",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-082.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-082.txt",
+        "tipo": "UNIT",
+        "raridade": "U",
+        "cor": "White"
+    },
+    {
+        "serial": "GD01-083",
+        "nome": "Guel's Dilanza",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-083.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-083.txt",
+        "tipo": "UNIT",
+        "raridade": "C",
+        "cor": "White"
+    },
+    {
+        "serial": "GD01-084",
+        "nome": "Beguir-Pente",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-084.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-084.txt",
+        "tipo": "UNIT",
+        "raridade": "C",
+        "cor": "White"
+    },
+    {
+        "serial": "GD01-085",
+        "nome": "Demi Garrison",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-085.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-085.txt",
+        "tipo": "UNIT",
+        "raridade": "C",
+        "cor": "White"
+    },
+    {
+        "serial": "GD01-086",
+        "nome": "Gundam Lfrith",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-086.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-086.txt",
+        "tipo": "UNIT",
+        "raridade": "C",
+        "cor": "White"
+    },
+    {
+        "serial": "GD01-087",
+        "nome": "Sayla Mass",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-087.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-087.txt",
+        "tipo": "PILOT",
+        "raridade": "R",
+        "cor": "Blue"
+    },
+    {
+        "serial": "GD01-088",
+        "nome": "Banagher Links",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-088.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-088.txt",
+        "tipo": "PILOT",
+        "raridade": "U",
+        "cor": "Blue"
+    },
+    {
+        "serial": "GD01-089",
+        "nome": "Riddhe Marcenas",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-089.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-089.txt",
+        "tipo": "PILOT",
+        "raridade": "C",
+        "cor": "Blue"
+    },
+    {
+        "serial": "GD01-090",
+        "nome": "Duo Maxwell",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-090.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-090.txt",
+        "tipo": "PILOT",
+        "raridade": "R",
+        "cor": "Green"
+    },
+    {
+        "serial": "GD01-091",
+        "nome": "Chang Wufei",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-091.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-091.txt",
+        "tipo": "PILOT",
+        "raridade": "U",
+        "cor": "Green"
+    },
+    {
+        "serial": "GD01-092",
+        "nome": "M'Quve",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-092.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-092.txt",
+        "tipo": "PILOT",
+        "raridade": "C",
+        "cor": "Green"
+    },
+    {
+        "serial": "GD01-093",
+        "nome": "Marida Cruz",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-093.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-093.txt",
+        "tipo": "PILOT",
+        "raridade": "R",
+        "cor": "Red"
+    },
+    {
+        "serial": "GD01-094",
+        "nome": "Yzak Jule",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-094.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-094.txt",
+        "tipo": "PILOT",
+        "raridade": "U",
+        "cor": "Red"
+    },
+    {
+        "serial": "GD01-095",
+        "nome": "Dearka Elthman",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-095.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-095.txt",
+        "tipo": "PILOT",
+        "raridade": "C",
+        "cor": "Red"
+    },
+    {
+        "serial": "GD01-096",
+        "nome": "Cagalli Yula Athha",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-096.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-096.txt",
+        "tipo": "PILOT",
+        "raridade": "R",
+        "cor": "White"
+    },
+    {
+        "serial": "GD01-097",
+        "nome": "Guel Jeturk",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-097.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-097.txt",
+        "tipo": "PILOT",
+        "raridade": "U",
+        "cor": "White"
+    },
+    {
+        "serial": "GD01-098",
+        "nome": "Elan Ceres (Enhanced Person Number 4)",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-098.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-098.txt",
+        "tipo": "PILOT",
+        "raridade": "C",
+        "cor": "White"
+    },
+    {
+        "serial": "GD01-099",
+        "nome": "Intercep Orders",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-099.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-099.txt",
+        "tipo": "COMMAND",
+        "raridade": "R",
+        "cor": "Blue"
+    },
+    {
+        "serial": "GD01-100",
+        "nome": "Show of Resolve",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-100.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-100.txt",
+        "tipo": "COMMAND",
+        "raridade": "U",
+        "cor": "Blue"
+    },
+    {
+        "serial": "GD01-101",
+        "nome": "Deep Devotion",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-101.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-101.txt",
+        "tipo": "COMMAND",
+        "raridade": "R",
+        "cor": "Blue"
+    },
+    {
+        "serial": "GD01-102",
+        "nome": "Securing the Supply Line",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-102.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-102.txt",
+        "tipo": "COMMAND",
+        "raridade": "U",
+        "cor": "Blue"
+    },
+    {
+        "serial": "GD01-103",
+        "nome": "The Stubborn Cog",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-103.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-103.txt",
+        "tipo": "COMMAND",
+        "raridade": "C",
+        "cor": "Blue"
+    },
+    {
+        "serial": "GD01-104",
+        "nome": "Signs of a Revolution",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-104.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-104.txt",
+        "tipo": "COMMAND",
+        "raridade": "C",
+        "cor": "Blue"
+    },
+    {
+        "serial": "GD01-105",
+        "nome": "Citizens Take a Stand!",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-105.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-105.txt",
+        "tipo": "COMMAND",
+        "raridade": "R",
+        "cor": "Green"
+    },
+    {
+        "serial": "GD01-106",
+        "nome": "Fortress Defense",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-106.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-106.txt",
+        "tipo": "COMMAND",
+        "raridade": "R",
+        "cor": "Green"
+    },
+    {
+        "serial": "GD01-107",
+        "nome": "First Contact",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-107.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-107.txt",
+        "tipo": "COMMAND",
+        "raridade": "U",
+        "cor": "Green"
+    },
+    {
+        "serial": "GD01-108",
+        "nome": "Strategic Arms",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-108.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-108.txt",
+        "tipo": "COMMAND",
+        "raridade": "U",
+        "cor": "Green"
+    },
+    {
+        "serial": "GD01-109",
+        "nome": "The Path to Vicctory or Defeat",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-109.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-109.txt",
+        "tipo": "COMMAND",
+        "raridade": "C",
+        "cor": "Green"
+    },
+    {
+        "serial": "GD01-110",
+        "nome": "Rasid's Orders",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-110.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-110.txt",
+        "tipo": "COMMAND",
+        "raridade": "C",
+        "cor": "Green"
+    },
+    {
+        "serial": "GD01-111",
+        "nome": "Battle of Aces",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-111.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-111.txt",
+        "tipo": "COMMAND",
+        "raridade": "R",
+        "cor": "Red"
+    },
+    {
+        "serial": "GD01-112",
+        "nome": "Extreme Hatred",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-112.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-112.txt",
+        "tipo": "COMMAND",
+        "raridade": "R",
+        "cor": "Red"
+    },
+    {
+        "serial": "GD01-113",
+        "nome": "Andrew Desert Tiger",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-113.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-113.txt",
+        "tipo": "COMMAND",
+        "raridade": "U",
+        "cor": "Red"
+    },
+    {
+        "serial": "GD01-114",
+        "nome": "Assault on Torrington Base",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-114.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-114.txt",
+        "tipo": "COMMAND",
+        "raridade": "C",
+        "cor": "Red"
+    },
+    {
+        "serial": "GD01-115",
+        "nome": "Zeon Remnant Forces",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-115.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-115.txt",
+        "tipo": "COMMAND",
+        "raridade": "U",
+        "cor": "Red"
+    },
+    {
+        "serial": "GD01-116",
+        "nome": "Stealth Stratagem",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-116.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-116.txt",
+        "tipo": "COMMAND",
+        "raridade": "C",
+        "cor": "Red"
+    },
+    {
+        "serial": "GD01-117",
+        "nome": "The Witch and the Bride",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-117.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-117.txt",
+        "tipo": "COMMAND",
+        "raridade": "R",
+        "cor": "White"
+    },
+    {
+        "serial": "GD01-118",
+        "nome": "Overflowing Affection",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-118.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-118.txt",
+        "tipo": "COMMAND",
+        "raridade": "U",
+        "cor": "White"
+    },
+    {
+        "serial": "GD01-119",
+        "nome": "Iron-Fisted Discipline",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-119.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-119.txt",
+        "tipo": "COMMAND",
+        "raridade": "R",
+        "cor": "White"
+    },
+    {
+        "serial": "GD01-120",
+        "nome": "Naval Bombardment",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-120.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-120.txt",
+        "tipo": "COMMAND",
+        "raridade": "C",
+        "cor": "White"
+    },
+    {
+        "serial": "GD01-121",
+        "nome": "Midair Modifications",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-121.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-121.txt",
+        "tipo": "COMMAND",
+        "raridade": "U",
+        "cor": "White"
+    },
+    {
+        "serial": "GD01-122",
+        "nome": "Covert Operative",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-122.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-122.txt",
+        "tipo": "COMMAND",
+        "raridade": "C",
+        "cor": "White"
+    },
+    {
+        "serial": "GD01-123",
+        "nome": "Nahel Argama",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-123.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-123.txt",
+        "tipo": "BASE",
+        "raridade": "U",
+        "cor": "Blue"
+    },
+    {
+        "serial": "GD01-124",
+        "nome": "Side 7",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-124.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-124.txt",
+        "tipo": "BASE",
+        "raridade": "C",
+        "cor": "Blue"
+    },
+    {
+        "serial": "GD01-125",
+        "nome": "Zanzibar",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-125.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-125.txt",
+        "tipo": "BASE",
+        "raridade": "U",
+        "cor": "Green"
+    },
+    {
+        "serial": "GD01-126",
+        "nome": "Underground Desert Base",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-126.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-126.txt",
+        "tipo": "BASE",
+        "raridade": "C",
+        "cor": "Green"
+    },
+    {
+        "serial": "GD01-127",
+        "nome": "Gamow",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-127.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-127.txt",
+        "tipo": "BASE",
+        "raridade": "U",
+        "cor": "Red"
+    },
+    {
+        "serial": "GD01-128",
+        "nome": "Mining Asteroid Palau",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-128.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-128.txt",
+        "tipo": "BASE",
+        "raridade": "C",
+        "cor": "Red"
+    },
+    {
+        "serial": "GD01-129",
+        "nome": "Kusanagi",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-129.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-129.txt",
+        "tipo": "BASE",
+        "raridade": "U",
+        "cor": "White"
+    },
+    {
+        "serial": "GD01-130",
+        "nome": "13th Tactical Testing Sector",
+        "imagem": "imagens/GD01 - Newtype Rising/GD01-130.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/GD01-130.txt",
+        "tipo": "BASE",
+        "raridade": "C",
+        "cor": "White"
+    },
+    {
+        "serial": "R-002",
+        "nome": "R-002",
+        "imagem": "imagens/GD01 - Newtype Rising/R-002.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/R-002.txt",
+        "tipo": "RESOURCE",
+        "raridade": "C",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "R-003",
+        "nome": "R-003",
+        "imagem": "imagens/GD01 - Newtype Rising/R-003.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/R-003.txt",
+        "tipo": "RESOURCE",
+        "raridade": "C",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "R-004",
+        "nome": "R-004",
+        "imagem": "imagens/GD01 - Newtype Rising/R-004.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/R-004.txt",
+        "tipo": "RESOURCE",
+        "raridade": "C",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "R-005",
+        "nome": "R-005",
+        "imagem": "imagens/GD01 - Newtype Rising/R-005.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/R-005.txt",
+        "tipo": "RESOURCE",
+        "raridade": "C",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "R-006",
+        "nome": "R-006",
+        "imagem": "imagens/GD01 - Newtype Rising/R-006.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/R-006.txt",
+        "tipo": "RESOURCE",
+        "raridade": "C",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "R-007",
+        "nome": "R-007",
+        "imagem": "imagens/GD01 - Newtype Rising/R-007.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/R-007.txt",
+        "tipo": "RESOURCE",
+        "raridade": "C",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "R-008",
+        "nome": "R-008",
+        "imagem": "imagens/GD01 - Newtype Rising/R-008.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/R-008.txt",
+        "tipo": "RESOURCE",
+        "raridade": "C",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "R-009",
+        "nome": "R-009",
+        "imagem": "imagens/GD01 - Newtype Rising/R-009.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/R-009.txt",
+        "tipo": "RESOURCE",
+        "raridade": "C",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "T-011",
+        "nome": "T-011",
+        "imagem": "imagens/GD01 - Newtype Rising/T-011.webp",
+        "descricao": "descrição/GD01 - Newtype Rising/T-011.txt",
+        "tipo": "UNIT",
+        "raridade": "C",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-001",
+        "nome": "GD06-001",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-001.webp",
+        "descricao": "",
+        "tipo": "UNIT",
+        "raridade": "LR",
+        "cor": "Blue"
+    },
+    {
+        "serial": "GD06-001",
+        "nome": "GD06-001",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-001_p1.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "LR+",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-002",
+        "nome": "GD06-002",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-002.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "LR",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-002",
+        "nome": "GD06-002",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-002_p1.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "LR+",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-002",
+        "nome": "GD06-002",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-002_p2.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "LR++",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-003",
+        "nome": "GD06-003",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-003.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-003",
+        "nome": "GD06-003",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-003_p1.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-004",
+        "nome": "GD06-004",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-004.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-004",
+        "nome": "GD06-004",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-004_p1.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-005",
+        "nome": "GD06-005",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-005.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-005",
+        "nome": "GD06-005",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-005_p1.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-006",
+        "nome": "GD06-006",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-006.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-006",
+        "nome": "GD06-006",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-006_p1.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-007",
+        "nome": "GD06-007",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-007.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-008",
+        "nome": "GD06-008",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-008.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-009",
+        "nome": "GD06-009",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-009.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-009",
+        "nome": "GD06-009",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-009_p1.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-010",
+        "nome": "GD06-010",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-010.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-011",
+        "nome": "GD06-011",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-011.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-012",
+        "nome": "GD06-012",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-012.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-013",
+        "nome": "GD06-013",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-013.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-014",
+        "nome": "GD06-014",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-014.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-015",
+        "nome": "GD06-015",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-015.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-016",
+        "nome": "GD06-016",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-016.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-017",
+        "nome": "GD06-017",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-017.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-018",
+        "nome": "GD06-018",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-018.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-018",
+        "nome": "GD06-018",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-018_p1.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-019",
+        "nome": "GD06-019",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-019.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-019",
+        "nome": "GD06-019",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-019_p1.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-020",
+        "nome": "GD06-020",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-020.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-020",
+        "nome": "GD06-020",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-020_p1.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-021",
+        "nome": "GD06-021",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-021.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-021",
+        "nome": "GD06-021",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-021_p1.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-022",
+        "nome": "GD06-022",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-022.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-022",
+        "nome": "GD06-022",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-022_p1.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-023",
+        "nome": "GD06-023",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-023.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-024",
+        "nome": "GD06-024",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-024.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-025",
+        "nome": "GD06-025",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-025.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-026",
+        "nome": "GD06-026",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-026.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-027",
+        "nome": "GD06-027",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-027.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-028",
+        "nome": "GD06-028",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-028.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-029",
+        "nome": "GD06-029",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-029.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-029",
+        "nome": "GD06-029",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-029_p1.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-030",
+        "nome": "GD06-030",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-030.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-031",
+        "nome": "GD06-031",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-031.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-032",
+        "nome": "GD06-032",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-032.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-033",
+        "nome": "GD06-033",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-033.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-033",
+        "nome": "GD06-033",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-033_p1.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-034",
+        "nome": "GD06-034",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-034.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-034",
+        "nome": "GD06-034",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-034_p1.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-034",
+        "nome": "GD06-034",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-034_p2.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-035",
+        "nome": "GD06-035",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-035.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-035",
+        "nome": "GD06-035",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-035_p1.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-036",
+        "nome": "GD06-036",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-036.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-036",
+        "nome": "GD06-036",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-036_p1.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-037",
+        "nome": "GD06-037",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-037.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-037",
+        "nome": "GD06-037",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-037_p1.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-038",
+        "nome": "GD06-038",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-038.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-038",
+        "nome": "GD06-038",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-038_p1.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-039",
+        "nome": "GD06-039",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-039.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-040",
+        "nome": "GD06-040",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-040.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-040",
+        "nome": "GD06-040",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-040_p1.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-041",
+        "nome": "GD06-041",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-041.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-042",
+        "nome": "GD06-042",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-042.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-043",
+        "nome": "GD06-043",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-043.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-044",
+        "nome": "GD06-044",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-044.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-045",
+        "nome": "GD06-045",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-045.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-046",
+        "nome": "GD06-046",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-046.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-047",
+        "nome": "GD06-047",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-047.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-048",
+        "nome": "GD06-048",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-048.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-049",
+        "nome": "GD06-049",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-049.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-049",
+        "nome": "GD06-049",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-049_p1.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-050",
+        "nome": "GD06-050",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-050.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-050",
+        "nome": "GD06-050",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-050_p1.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-051",
+        "nome": "GD06-051",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-051.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-051",
+        "nome": "GD06-051",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-051_p1.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-052",
+        "nome": "GD06-052",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-052.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-052",
+        "nome": "GD06-052",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-052_p1.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-053",
+        "nome": "GD06-053",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-053.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-053",
+        "nome": "GD06-053",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-053_p1.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-054",
+        "nome": "GD06-054",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-054.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-054",
+        "nome": "GD06-054",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-054_p1.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-055",
+        "nome": "GD06-055",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-055.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-055",
+        "nome": "GD06-055",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-055_p1.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-056",
+        "nome": "GD06-056",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-056.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-057",
+        "nome": "GD06-057",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-057.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-058",
+        "nome": "GD06-058",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-058.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-059",
+        "nome": "GD06-059",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-059.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-060",
+        "nome": "GD06-060",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-060.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-061",
+        "nome": "GD06-061",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-061.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-062",
+        "nome": "GD06-062",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-062.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-063",
+        "nome": "GD06-063",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-063.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-064",
+        "nome": "GD06-064",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-064.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-064",
+        "nome": "GD06-064",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-064_p1.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-065",
+        "nome": "GD06-065",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-065.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-065",
+        "nome": "GD06-065",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-065_p1.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-066",
+        "nome": "GD06-066",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-066.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-066",
+        "nome": "GD06-066",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-066_p1.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-067",
+        "nome": "GD06-067",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-067.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-068",
+        "nome": "GD06-068",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-068.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-068",
+        "nome": "GD06-068",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-068_p1.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-069",
+        "nome": "GD06-069",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-069.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-069",
+        "nome": "GD06-069",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-069_p1.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-070",
+        "nome": "GD06-070",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-070.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-070",
+        "nome": "GD06-070",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-070_p1.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-071",
+        "nome": "GD06-071",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-071.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-072",
+        "nome": "GD06-072",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-072.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-072",
+        "nome": "GD06-072",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-072_p1.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-073",
+        "nome": "GD06-073",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-073.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-074",
+        "nome": "GD06-074",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-074.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-075",
+        "nome": "GD06-075",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-075.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-076",
+        "nome": "GD06-076",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-076.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-077",
+        "nome": "GD06-077",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-077.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-078",
+        "nome": "GD06-078",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-078.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-079",
+        "nome": "GD06-079",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-079.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-080",
+        "nome": "GD06-080",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-080.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-080",
+        "nome": "GD06-080",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-080_p1.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-081",
+        "nome": "GD06-081",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-081.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-081",
+        "nome": "GD06-081",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-081_p1.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-082",
+        "nome": "GD06-082",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-082.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-083",
+        "nome": "GD06-083",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-083.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-084",
+        "nome": "GD06-084",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-084.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-084",
+        "nome": "GD06-084",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-084_p1.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-085",
+        "nome": "GD06-085",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-085.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-086",
+        "nome": "GD06-086",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-086.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-087",
+        "nome": "GD06-087",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-087.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-088",
+        "nome": "GD06-088",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-088.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-088",
+        "nome": "GD06-088",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-088_p1.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-089",
+        "nome": "GD06-089",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-089.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-090",
+        "nome": "GD06-090",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-090.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-091",
+        "nome": "GD06-091",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-091.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-092",
+        "nome": "GD06-092",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-092.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-093",
+        "nome": "GD06-093",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-093.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-093",
+        "nome": "GD06-093",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-093_p1.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-094",
+        "nome": "GD06-094",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-094.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-094",
+        "nome": "GD06-094",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-094_p1.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-095",
+        "nome": "GD06-095",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-095.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-096",
+        "nome": "GD06-096",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-096.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-097",
+        "nome": "GD06-097",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-097.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-097",
+        "nome": "GD06-097",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-097_p1.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-098",
+        "nome": "GD06-098",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-098.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-099",
+        "nome": "GD06-099",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-099.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-100",
+        "nome": "GD06-100",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-100.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-101",
+        "nome": "GD06-101",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-101.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-102",
+        "nome": "GD06-102",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-102.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-103",
+        "nome": "GD06-103",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-103.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-104",
+        "nome": "GD06-104",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-104.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-105",
+        "nome": "GD06-105",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-105.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-105",
+        "nome": "GD06-105",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-105_p1.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-106",
+        "nome": "GD06-106",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-106.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-107",
+        "nome": "GD06-107",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-107.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-108",
+        "nome": "GD06-108",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-108.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-109",
+        "nome": "GD06-109",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-109.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-110",
+        "nome": "GD06-110",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-110.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-110",
+        "nome": "GD06-110",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-110_p1.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-111",
+        "nome": "GD06-111",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-111.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-112",
+        "nome": "GD06-112",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-112.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-113",
+        "nome": "GD06-113",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-113.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-114",
+        "nome": "GD06-114",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-114.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-115",
+        "nome": "GD06-115",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-115.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-116",
+        "nome": "GD06-116",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-116.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-117",
+        "nome": "GD06-117",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-117.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-118",
+        "nome": "GD06-118",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-118.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-118",
+        "nome": "GD06-118",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-118_p1.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-119",
+        "nome": "GD06-119",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-119.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-120",
+        "nome": "GD06-120",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-120.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-121",
+        "nome": "GD06-121",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-121.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-122",
+        "nome": "GD06-122",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-122.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-123",
+        "nome": "GD06-123",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-123.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-124",
+        "nome": "GD06-124",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-124.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-125",
+        "nome": "GD06-125",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-125.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-126",
+        "nome": "GD06-126",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-126.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-127",
+        "nome": "GD06-127",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-127.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-128",
+        "nome": "GD06-128",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-128.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-129",
+        "nome": "GD06-129",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-129.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "GD06-130",
+        "nome": "GD06-130",
+        "imagem": "imagens/GD06 - Stardust Trails/GD06-130.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "T-030",
+        "nome": "Gozzo",
+        "imagem": "imagens/GD06 - Stardust Trails/T-030.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "T-031",
+        "nome": "Gozzo",
+        "imagem": "imagens/GD06 - Stardust Trails/T-031.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "T-032",
+        "nome": "Gozzo",
+        "imagem": "imagens/GD06 - Stardust Trails/T-032.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "T-033",
+        "nome": "Gozzo",
+        "imagem": "imagens/GD06 - Stardust Trails/T-033.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "T-034",
+        "nome": "Gozzo",
+        "imagem": "imagens/GD06 - Stardust Trails/T-034.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "T-035",
+        "nome": "Gozzo",
+        "imagem": "imagens/GD06 - Stardust Trails/T-035.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "T-036",
+        "nome": "Gozzo",
+        "imagem": "imagens/GD06 - Stardust Trails/T-036.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    },
+    {
+        "serial": "T-037",
+        "nome": "Gozzo",
+        "imagem": "imagens/GD06 - Stardust Trails/T-037.webp",
+        "descricao": "",
+        "tipo": "Desconhecido",
+        "raridade": "Desconhecida",
+        "cor": "Desconhecida"
+    }
+]

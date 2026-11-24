@@ -1,0 +1,13 @@
+The Witch and the Bride
+
+COLOR White | TYPE COMMAND | RARITY R
+
+Lv. 5 | COST 2
+
+【Burst】Activate this card's 【Main】.
+【Main】/【Action】Choose 1 enemy Unit with 5 or less HP. Return it to its owner's hand.
+
+Trait -
+Link -
+
+AP - | HP -

@@ -1,0 +1,12 @@
+Launcher Strike Gundam
+
+COLOR White | TYPE UNIT | RARITY U
+
+Lv. 4 | COST 3 
+
+<Blocker> (Rest this Unit to change the attack target to it.)
+
+Trait (Earth Alliance)
+Link (Earth Alliance) Trait
+
+AP 3 | HP 4

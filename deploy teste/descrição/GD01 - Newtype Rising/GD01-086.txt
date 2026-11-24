@@ -1,0 +1,12 @@
+Gundam Lfrith
+
+COLOR White | TYPE UNIT | RARITY C
+
+Lv. 3 | COST 2 
+
+<Blocker> (Rest this Unit to change the attack target to it.)
+
+Trait (Vanadis Institute)
+Link -
+
+AP 2 | HP 4

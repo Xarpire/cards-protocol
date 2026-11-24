@@ -1,0 +1,6 @@
+node_modules/
+contas.json
+colecao.json
+*.tmp
+autoridade.key
+autoridade.crt

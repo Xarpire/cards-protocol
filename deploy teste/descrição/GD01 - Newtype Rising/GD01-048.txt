@@ -1,0 +1,13 @@
+Zaku I Sniper Type
+
+COLOR Red | TYPE UNIT | RARITY R
+
+Lv. 2 | COST 2 
+
+【Activate･Main】<Support 1> (Rest this Unit. 1 other friendly Unit gets AP+(specified amount) during this turn.)
+【Deploy】Look at the top card of your deck. If it is a (Zeon)/(Neo Zeon) Unit card, you may reveal it and add it to your hand. Return any remaining card to the bottom of your deck.
+
+Trait (Zeon)
+Link (Zeon) Trait
+
+AP 0 | HP 1

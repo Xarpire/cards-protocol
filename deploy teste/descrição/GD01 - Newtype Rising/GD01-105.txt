@@ -1,0 +1,13 @@
+Citizens, Take a Stand!
+
+COLOR Green | TYPE COMMAND | RARITY R
+
+Lv. 4 | COST 1
+
+【Burst】Add this card to your hand.
+【Main】All your Units get AP+2 during this turn.
+
+Trait -
+Link -
+
+AP - | HP -

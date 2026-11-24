@@ -1,0 +1,14 @@
+Gundam 
+
+COLOR Blue | TYPE UNIT | RARITY LR
+
+Lv. 4 | COST 3
+
+All your (White Base Team) Units gain <Repair 1>.
+(At the end of your turn, this Unit recovers the specified number of HP.)
+【When Paired】If you have 2 or more other Units in play, draw 1.
+
+Trait (Earth Federation) (White Base Team)
+Link [Amuro Ray]   
+ 
+AP 3 | HP 3

@@ -1,0 +1,12 @@
+Guntank
+
+COLOR Blue | TYPE UNIT | RARITY U
+
+Lv. 2 | COST 1
+
+Deploy】Choose 1 rested enemy Unit. Deal 1 damage to it.
+
+Trait (Earth Federation) (White Base Team)
+Link -
+
+AP 1 | HP 2

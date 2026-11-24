@@ -1,0 +1,12 @@
+Geara Zulu (Guards Type)
+
+COLOR Red | TYPE UNIT | RARITY U
+
+Lv. 4 | COST 3 
+
+【Deploy】Choose 1 enemy Unit. Deal 1 damage to it.
+
+Trait (Neo Zeon)
+Link -
+
+AP 2 | HP 4

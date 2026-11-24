@@ -1,0 +1,13 @@
+Chang Wufei
+
+COLOR Green | TYPE PILOT | RARITY U
+
+Lv. 4 | COST 1
+
+【Burst】Add this card to your hand.
+During your turn, while this Unit has <Breach>, it can't receive battle damage from enemy Units with 3 or less AP.
+
+Trait (Operation Meteor)
+Link -
+
+AP +2 | HP +1

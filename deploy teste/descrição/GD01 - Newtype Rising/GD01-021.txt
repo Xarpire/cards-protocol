@@ -1,0 +1,12 @@
+Pisces
+
+COLOR Blue | TYPE UNIT | RARITY C
+
+Lv. 1 | COST 1 
+
+-
+
+Trait (OZ)
+Link -
+
+AP 1 | HP 2

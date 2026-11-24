@@ -1,0 +1,13 @@
+Marida Cruz
+
+COLOR Red | TYPE PILOT | RARITY R
+
+Lv. 4 | COST 1 
+
+【Burst】Add this card to your hand.
+【During Link】【Attack】Choose 1 enemy Unit whose Lv. is equal to or lower than this Unit. Deal 1 damage to it.
+
+Trait (Neo Zeon) (Cyber-Newtype)
+Link -
+
+AP +2 | HP +1

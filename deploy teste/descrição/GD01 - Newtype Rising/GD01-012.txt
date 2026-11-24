@@ -1,0 +1,12 @@
+Zechs' Leo
+
+COLOR Blue | TYPE UNIT | RARITY U
+
+Lv. 3 | COST 2
+
+When Paired】Choose 1 enemy Unit with 3 or less HP. Rest it.
+
+Trait (OZ)
+Link (OZ) Trait
+
+AP 3 | HP 2

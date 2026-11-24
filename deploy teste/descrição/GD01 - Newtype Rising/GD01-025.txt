@@ -1,0 +1,13 @@
+Gundam Deathscythe
+
+COLOR Green | TYPE UNIT | RARITY LR
+
+Lv. 6 | COST 4 
+
+【When Paired･(Operation Meteor) Pilot】Place 1 rested Resource. Then, this Unit gains <First Strike> during this turn.
+(While this Unit is attacking, it deals damage before the enemy Unit.)
+
+Trait (Operation Meteor)
+Link [Duo Maxwell]
+
+AP 5 | HP 4

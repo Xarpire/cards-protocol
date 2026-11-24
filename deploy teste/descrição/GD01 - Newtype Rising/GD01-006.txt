@@ -1,0 +1,13 @@
+Delta Plus
+
+COLOR Blue | TYPE UNIT | RARITY R
+
+Lv. 4 | COST 3
+
+<Repair 1> (At the end of your turn, this Unit recovers the specified number of HP.)
+【During Link】This Unit gets HP+1.
+
+Trait (Earth Federation)
+Link (Earth Federation) Trait
+
+AP 4 | HP 3

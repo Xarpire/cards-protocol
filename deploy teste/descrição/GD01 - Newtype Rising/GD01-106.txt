@@ -1,0 +1,13 @@
+Fortress Defense
+
+COLOR Green | TYPE COMMAND | RARITY R
+
+Lv. 5 | COST 2
+
+【Main】Deploy 2 [Zaku Ⅱ]((Zeon)･AP1･HP1) Unit tokens.
+【Pilot】[Dozle Zabi]
+
+Trait (Zeon)
+Link -
+
+AP +1 | HP +0

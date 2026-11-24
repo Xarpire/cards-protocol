@@ -1,0 +1,13 @@
+Unicorn Gundam 02 Banshee (Destroy Mode)
+
+COLOR Blue | TYPE UNIT | RARITY LR
+
+Lv. 6 | COST 4 
+
+【During Link】【Attack】Choose 12 cards from your trash. Return them to their owner's deck and shuffle it. If you do, set this Unit as active. It gains <First Strike> during this turn.
+(While this Unit is attacking, it deals damage before the enemy Unit.)
+
+Trait (Earth Federation)
+Link [Marida Cruz]
+
+AP 5 | HP 4

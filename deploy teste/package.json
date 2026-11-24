@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "start": "node server.cjs"
+  },
+  "dependencies": {
+    "@techstark/opencv-js": "^5.0.0-release.1",
+    "selfsigned": "5.5.0"
+  }
+}

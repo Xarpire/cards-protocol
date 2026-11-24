@@ -1,0 +1,12 @@
+Duel Gundam (Assault Shroud)
+
+COLOR Red | TYPE UNIT | RARITY LR
+
+Lv. 5 | COST 4 
+
+【When Paired】Look at the top 3 cards of your deck. You may deploy 1 (ZAFT) Unit card that is Lv.4 or lower among them. Return the remaining cards randomly to the bottom of your deck.
+
+Trait (ZAFT)
+Link [Yzak Jule]
+
+AP 4 | HP 4

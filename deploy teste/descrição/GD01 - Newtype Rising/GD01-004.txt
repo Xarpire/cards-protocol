@@ -1,0 +1,13 @@
+Guncannon
+
+COLOR Blue | TYPE UNIT | RARITY R
+
+Lv. 3 | COST 2 
+
+<Repair 1> (At the end of your turn, this Unit recovers the specified number of HP.)
+【When Paired】Choose 1 enemy Unit with 2 or less HP. Rest it.
+
+Trait (Earth Federation) (White Base Team)
+Link (White Base Team) Trait
+
+AP 2 | HP 3

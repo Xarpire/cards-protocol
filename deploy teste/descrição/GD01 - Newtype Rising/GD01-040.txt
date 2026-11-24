@@ -1,0 +1,12 @@
+Wing Gundam
+
+COLOR Green | TYPE UNIT | RARITY C
+
+Lv. 5 | COST 2 
+
+-
+
+Trait (Heero Yuy)
+Link [Banagher Links]
+
+AP 4 | HP 3

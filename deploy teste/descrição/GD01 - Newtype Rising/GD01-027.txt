@@ -1,0 +1,13 @@
+Big Zam
+
+COLOR Green | TYPE UNIT | RARITY R
+
+Lv. 7 | COST 5 
+
+<Breach 4> (When this Unit's attack destroys an enemy Unit, deal the specified amount of damage to the first card in that opponent's shield area.)
+【Deploy】If there are 10 or more (Zeon)/(Neo Zeon) Unit cards in your trash, deal 4 damage to all Units with <Blocker>.
+
+Trait (Zeon)
+Link [Dozle Zabi]
+
+AP 5 | HP 6

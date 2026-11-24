@@ -1,0 +1,12 @@
+ZuOOT
+
+ COLOR Red | TYPE UNIT | RARITY C
+
+Lv. 1 | COST 1 
+
+【Activate･Main】<Support 1> (Rest this Unit. 1 other friendly Unit gets AP+(specified amount) during this turn.)
+
+Trait (ZAFT)
+Link -
+
+AP 0 | HP 2

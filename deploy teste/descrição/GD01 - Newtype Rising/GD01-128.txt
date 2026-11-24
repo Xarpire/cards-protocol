@@ -1,0 +1,13 @@
+Mining Asteroid Palau
+
+ COLOR Red | TYPE BASE | RARITY C
+
+Lv. 2 | COST 1
+
+【Burst】Deploy this card.
+【Deploy】Add 1 of your Shields to your hand.
+
+Trait (Neo Zeon) (Stronghold)
+Link -
+
+AP 0 | HP 6

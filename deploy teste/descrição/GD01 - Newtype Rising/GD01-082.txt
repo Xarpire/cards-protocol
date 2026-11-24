@@ -1,0 +1,12 @@
+Gundam Aerial (Mirasoul Flight Unit)
+
+COLOR White | TYPE UNIT | RARITY U
+
+Lv. 4 | COST 3
+
+【During Pair】【Activate･Action】【Once per Turn】②：Choose 1 enemy Unit. It gets AP-1 during this battle.
+
+Trait (Academy)
+Link [Suletta Mercury]
+
+AP 4 | HP 3

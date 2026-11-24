@@ -1,0 +1,13 @@
+Dearka Elthman
+
+COLOR Red | TYPE PILOT | RARITY C
+
+Lv. 3 | COST 1 
+
+【Burst】Add this card to your hand.
+【When Linked】Discard 1. If you do, draw 1.
+
+Trait (ZAFT) (Coordinator)
+Link -
+
+AP +1 | HP +1

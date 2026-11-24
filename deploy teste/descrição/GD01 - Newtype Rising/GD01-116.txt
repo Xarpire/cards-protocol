@@ -1,0 +1,13 @@
+Stealth Stratagem
+
+COLOR Red | TYPE COMMAND | RARITY C
+
+Lv. 2 | COST 1
+
+【Main】/【Action】Choose 1 enemy Unit with 2 or less AP. Deal 2 damage to it.
+【Pilot】[Nicol Amarfi]
+
+Trait (ZAFT) (Coordinator)
+Link -
+
+AP +0 | HP +1

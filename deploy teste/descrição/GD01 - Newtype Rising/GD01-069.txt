@@ -1,0 +1,12 @@
+Strike Rouge
+
+COLOR White | TYPE UNIT | RARITY R
+
+Lv. 3 | COST 2 
+
+【Activate･Main】【Once per Turn】①：Choose 1 of your rested white Units with <Blocker>. Set it as active. It can't attack during this turn.
+
+Trait (Triple Ship Alliance)
+Link (Orb) Trait
+
+AP 3 | HP 2

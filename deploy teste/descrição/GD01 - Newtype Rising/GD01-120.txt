@@ -1,0 +1,13 @@
+Naval Bombardment
+
+COLOR White | TYPE COMMAND | RARITY C
+
+Lv.2 | COST 1
+
+【Burst】Choose 1 enemy Unit. It gets AP-3 during this turn.
+【Action】Choose 1 friendly Unit with <Blocker>. It gets AP+3 during this turn.
+
+Trait -
+Link -
+
+AP - | HP -

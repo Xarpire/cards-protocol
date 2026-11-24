@@ -1,0 +1,12 @@
+Geara Doga (Heavy Armed Type)
+
+COLOR Red | TYPE UNIT | RARITY U
+
+Lv. 4 | COST 3 
+
+【Activate･Main】【Once per Turn】①：Choose 1 enemy Unit with 2 or less AP. Deal 1 damage to it.
+
+Trait (Neo Zeon)
+Link -
+
+AP 4 | HP 2

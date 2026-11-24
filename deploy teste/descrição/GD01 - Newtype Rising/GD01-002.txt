@@ -1,0 +1,13 @@
+Unicorn Gundam (Destroy Mode) 
+
+COLOR Blue | TYPE UNIT | RARITY LR
+
+Lv. 7 | COST 6 
+
+When playing this card from your hand, you may destroy 1 of your Link Units with "Unicorn Mode" in its card name that is Lv.5. If you do, play this card as if it has 0 Lv. and cost.
+【Attack】Choose 1 enemy Unit. Rest it.
+
+Trait (Civilian)
+Link [Banagher Links]
+
+AP 5 | HP 4

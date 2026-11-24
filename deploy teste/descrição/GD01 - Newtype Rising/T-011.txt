@@ -1,0 +1,9 @@
+Fatum-00
+TYPE UNIT TOKEN | RARITY C
+<Blocker> (Rest this Unit to change the attack target to it.)
+Trait (Triple Ship Alliance)
+Link -
+AP 2
+HP 2
+Source Title: Mobile Suit Gundam SEED
+Where to get it: Newtype Rising [GD01]

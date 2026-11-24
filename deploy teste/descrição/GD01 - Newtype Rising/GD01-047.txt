@@ -1,0 +1,12 @@
+Shamblo
+
+COLOR Red | TYPE UNIT | RARITY R
+
+Lv. 8 | COST 7 
+
+【Attack】If 2 or more other rested friendly Units are in play, choose 1 enemy Unit. Deal 3 damage to it.
+
+Trait (Zeon)
+Link (Newtype) Trait / (Cyber-Newtype) Trait
+
+AP 6 | HP 5

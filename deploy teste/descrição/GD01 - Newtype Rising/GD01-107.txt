@@ -1,0 +1,13 @@
+First Contact
+
+COLOR Green | TYPE COMMAND | RARITY U
+
+Lv. 3 | COST 3 
+
+【Burst】Place 1 EX Resource.
+【Main】Place 1 rested Resource.
+
+Trait -
+Link -
+
+AP - | HP -

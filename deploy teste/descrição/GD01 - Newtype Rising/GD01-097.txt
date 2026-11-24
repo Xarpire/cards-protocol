@@ -1,0 +1,13 @@
+Guel Jeturk
+
+COLOR White | TYPE PILOT | RARITY U
+
+Lv. 3 | COST 1
+
+【Burst】Add this card to your hand.
+【Activate･Main】【Once per Turn】If your opponent has 8 or more cards in their hand, set this Unit as active. It can't attack during this turn.
+
+Trait (Academy)
+Link -
+
+AP +1 | HP +1

@@ -1,0 +1,13 @@
+Intercept Orders
+
+COLOR Blue | TYPE COMMAND | RARITY R
+
+Lv. 4 | COST 2
+
+【Burst】Choose 1 enemy Unit with 5 or less HP. Rest it.
+【Main】/【Action】Choose 1 to 2 enemy Units with 3 or less HP. Rest them.
+
+Trait -
+Link -
+
+AP - | HP -

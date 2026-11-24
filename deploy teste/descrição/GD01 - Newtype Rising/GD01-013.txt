@@ -1,0 +1,12 @@
+Gundam
+
+COLOR Blue | TYPE UNIT | RARITY C
+
+Lv. 4 | COST 2
+
+-
+
+Trait (Earth Federation) (White Base Team)
+Link [Amuro Ray]
+
+AP 3 | HP 4

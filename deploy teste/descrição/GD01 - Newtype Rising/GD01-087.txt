@@ -1,0 +1,14 @@
+Sayla Mass
+
+COLOR Blue | TYPE PILOT | RARITY R
+
+Lv. 3 | COST 1
+
+【Burst】Add this card to your hand.
+While this Unit is blue, it gains <Repair 1>.
+(At the end of your turn, this Unit recovers the specified number of HP.)
+Trait (Earth Federation) (White Base Team) (Newtype)
+
+Link -
+
+AP +1 | HP +1

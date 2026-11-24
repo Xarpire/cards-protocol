@@ -1,0 +1,12 @@
+Char's Zaku Ⅱ
+
+COLOR Green| TYPE UNIT | RARITY R
+
+Lv. 3 | COST 2
+
+【During Pair】【Destroyed】Deploy 1 rested [Char's Zaku Ⅱ]((Zeon)･AP3･HP1) Unit token.
+
+Trait (Zeon)
+Link [Char Aznable]
+
+AP 3 | HP 2

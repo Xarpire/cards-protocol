@@ -1,0 +1,13 @@
+Iron-Fisted Discipline
+
+COLOR White | TYPE COMMAND | RARITY R
+
+Lv. 2 | COST 1
+
+【Main】/【Action】Choose 1 enemy Unit that is Lv.4 or lower. It gets AP-2 during this turn.
+【Pilot】[Chuatury Panlunch]
+
+Trait (Academy)
+Link -
+
+AP +1 | HP +0

@@ -1,0 +1,13 @@
+Covert Operative
+
+COLOR White | TYPE COMMAND | RARITY C
+
+Lv. 3 | COST 1
+
+【Main】Choose 1 enemy Unit with 2 or less HP. Return it to its owner's hand. If you have a Link Unit in play, choose 1 enemy Unit with 4 or less HP instead.
+【Pilot】[Shaddiq Zenelli]
+
+Trait (Academy)
+Link -
+
+AP +1 | HP +0

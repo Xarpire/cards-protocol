@@ -1,0 +1,12 @@
+Kshatriya
+
+COLOR Red | TYPE UNIT | RARITY LR
+
+Lv. 5 | COST 4 
+
+【When Paired･(Cyber-Newtype)/(Newtype) Pilot】Choose 1 to 2 enemy Units. Deal 1 damage to them.
+
+Trait (Neo Zeon)
+Link [Marida Cruz]
+
+AP 5 | HP 4

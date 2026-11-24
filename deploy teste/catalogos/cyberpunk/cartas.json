@@ -1,0 +1,1361 @@
+[
+  {
+    "serial": "PRR01-WNC-001",
+    "edicao": "CP03",
+    "nome": "Adam Smasher",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Pre-release/ADAM SMASHER.webp",
+    "tipo": "LEGEND",
+    "raridade": "Beta",
+    "cor": "Red"
+  },
+  {
+    "serial": "PRR01-WNC-002",
+    "edicao": "CP03",
+    "nome": "Royce",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Pre-release/ROYCE.webp",
+    "tipo": "LEGEND",
+    "raridade": "Beta",
+    "cor": "Red"
+  },
+  {
+    "serial": "PRR01-WNC-003",
+    "edicao": "CP03",
+    "nome": "Dum Dum",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Pre-release/DUM DUM.webp",
+    "tipo": "LEGEND",
+    "raridade": "Beta",
+    "cor": "Yellow"
+  },
+  {
+    "serial": "PRR01-WNC-004",
+    "edicao": "CP03",
+    "nome": "River Ward",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Pre-release/RIVER WARD.webp",
+    "tipo": "LEGEND",
+    "raridade": "Beta",
+    "cor": "Yellow"
+  },
+  {
+    "serial": "PRR01-WNC-005",
+    "edicao": "CP03",
+    "nome": "Rogue Amendiares",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Pre-release/ROGUE AMENDIARES.webp",
+    "tipo": "LEGEND",
+    "raridade": "Beta",
+    "cor": "Yellow"
+  },
+  {
+    "serial": "PRR01-WNC-006",
+    "edicao": "CP03",
+    "nome": "Goro Takemura",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Pre-release/GORO TAKEMURA.webp",
+    "tipo": "LEGEND",
+    "raridade": "Beta",
+    "cor": "Green"
+  },
+  {
+    "serial": "PRR01-WNC-007",
+    "edicao": "CP03",
+    "nome": "Jackie Welles",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Pre-release/JACKIE WELLES.webp",
+    "tipo": "LEGEND",
+    "raridade": "Beta",
+    "cor": "Green"
+  },
+  {
+    "serial": "PRR01-WNC-008",
+    "edicao": "CP03",
+    "nome": "Panam Palmer",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Pre-release/PANAM PALMER.webp",
+    "tipo": "LEGEND",
+    "raridade": "Beta",
+    "cor": "Green"
+  },
+  {
+    "serial": "PRR01-WNC-009",
+    "edicao": "CP03",
+    "nome": "Alt Cunningham",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Pre-release/ALT CUNNINGHAM.webp",
+    "tipo": "LEGEND",
+    "raridade": "Beta",
+    "cor": "Blue"
+  },
+  {
+    "serial": "PRR01-WNC-010",
+    "edicao": "CP03",
+    "nome": "Judy Álvarez",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Pre-release/JUDY ÁLVAREZ.webp",
+    "tipo": "LEGEND",
+    "raridade": "Beta",
+    "cor": "Blue"
+  },
+  {
+    "serial": "PRR01-WNC-011",
+    "edicao": "CP03",
+    "nome": "Mantis Blades",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Pre-release/MANTIS BLADES.webp",
+    "tipo": "GEAR",
+    "raridade": "Beta",
+    "cor": "Red"
+  },
+  {
+    "serial": "CP02-001",
+    "edicao": "CP02",
+    "nome": "6th Street Recruits",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/6TH STREET RECRUITS.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-002",
+    "edicao": "CP02",
+    "nome": "Adam Smasher Metal Over Meat",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/ADAM SMASHER Metal Over Meat.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-003",
+    "edicao": "CP02",
+    "nome": "Adam Smasher",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/ADAM SMASHER.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-004",
+    "edicao": "CP02",
+    "nome": "Adrenaline Converter",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/ADRENALINE CONVERTER.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-005",
+    "edicao": "CP02",
+    "nome": "Afterparty At Lizzie's",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/AFTERPARTY AT LIZZIE'S.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-006",
+    "edicao": "CP02",
+    "nome": "All Is Lost",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/ALL IS LOST.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-007",
+    "edicao": "CP02",
+    "nome": "Alt Cunningham Mother os Daemons",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/ALT CUNNINGHAM Mother os Daemons.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-008",
+    "edicao": "CP02",
+    "nome": "Alt Cunningham SoulKiller Architect",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/ALT CUNNINGHAM SoulKiller Architect.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-009",
+    "edicao": "CP02",
+    "nome": "Animals Wrecker",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/ANIMALS WRECKER.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-010",
+    "edicao": "CP02",
+    "nome": "Appetite For Destruction",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/APPETITE FOR DESTRUCTION.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-011",
+    "edicao": "CP02",
+    "nome": "Arasaka Emergency Radioport",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/ARASAKA EMERGENCY RADIOPORT.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-012",
+    "edicao": "CP02",
+    "nome": "Augmented Negotiators",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/AUGMENTED NEGOTIATORS.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-013",
+    "edicao": "CP02",
+    "nome": "Bonnie And Clyde",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/BONNIE AND CLYDE.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-014",
+    "edicao": "CP02",
+    "nome": "Bootleg Black Sapphire Show",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/BOOTLEG BLACK SAPPHIRE SHOW.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-015",
+    "edicao": "CP02",
+    "nome": "Caliber",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/CALIBER.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-016",
+    "edicao": "CP02",
+    "nome": "Carnage At The Colosseum",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/CARNAGE AT THE COLOSSEUM.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-017",
+    "edicao": "CP02",
+    "nome": "Chrome Fang",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/CHROME FANG.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-018",
+    "edicao": "CP02",
+    "nome": "Chrome Reverie",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/CHROME REVERIE.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-019",
+    "edicao": "CP02",
+    "nome": "Corpo Security",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/CORPO SECURITY.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-020",
+    "edicao": "CP02",
+    "nome": "Corporate Surveillance",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/CORPORATE SURVEILLANCE.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-021",
+    "edicao": "CP02",
+    "nome": "Cyberpsychosis",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/CYBERPSYCHOSIS.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-022",
+    "edicao": "CP02",
+    "nome": "Deadman Transmitter",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/DEADMAN TRANSMITTER.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-023",
+    "edicao": "CP02",
+    "nome": "Delamain Cab",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/DELAMAIN CAB.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-024",
+    "edicao": "CP02",
+    "nome": "Delamain Rideshare Ai",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/DELAMAIN Rideshare AI.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-025",
+    "edicao": "CP02",
+    "nome": "Detonate",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/DETONATE.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-026",
+    "edicao": "CP02",
+    "nome": "Dexter Deshawn",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/DEXTER DESHAWN.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-027",
+    "edicao": "CP02",
+    "nome": "Don't Fear The Reaper",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/DON'T FEAR) THE REAPER.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-028",
+    "edicao": "CP02",
+    "nome": "Dum Dum Maelstrom Triggerman",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/DUM DUM Maelstrom Triggerman.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-029",
+    "edicao": "CP02",
+    "nome": "Dying Night V's Pistol",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/DYING NIGHT V's Pistol.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-030",
+    "edicao": "CP02",
+    "nome": "El Sombrerón",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/EL SOMBRERÓN.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-031",
+    "edicao": "CP02",
+    "nome": "Emergency Atlus",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/EMERGENCY ATLUS.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-032",
+    "edicao": "CP02",
+    "nome": "Evelyn Parker Beautiful Enigma",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/EVELYN PARKER Beautiful Enigma.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-033",
+    "edicao": "CP02",
+    "nome": "Evelyn Parker Scheming Siren",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/EVELYN PARKER Scheming Siren.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-034",
+    "edicao": "CP02",
+    "nome": "Field Operator",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/FIELD OPERATOR.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-035",
+    "edicao": "CP02",
+    "nome": "Floor It",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/FLOOR IT.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-036",
+    "edicao": "CP02",
+    "nome": "Fool On The Hill",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/FOOL ON THE HILL.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-037",
+    "edicao": "CP02",
+    "nome": "Gilded Matón",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/GILDED MATÓN.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-038",
+    "edicao": "CP02",
+    "nome": "Gorilla Arms",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/GORILLA ARMS.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-039",
+    "edicao": "CP02",
+    "nome": "Goro Takemura Vengeful Bodyguard",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/GORO TAKEMURA Vengeful Bodyguard.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-040",
+    "edicao": "CP02",
+    "nome": "Gunpoint Diplomacy",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/GUNPOINT DIPLOMACY.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-041",
+    "edicao": "CP02",
+    "nome": "Hacked Corpo",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/HACKED CORPO.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-042",
+    "edicao": "CP02",
+    "nome": "Hanako Arasaka Daughter of the Emperor",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/HANAKO ARASAKA Daughter of the Emperor.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-043",
+    "edicao": "CP02",
+    "nome": "Hanako Arasaka In a Gilded Cage",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/HANAKO ARASAKA In a Gilded Cage.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-044",
+    "edicao": "CP02",
+    "nome": "Heywood Ripperdoc",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/HEYWOOD RIPPERDOC.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-045",
+    "edicao": "CP02",
+    "nome": "Industrial Assembly",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/INDUSTRIAL ASSEMBLY.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-046",
+    "edicao": "CP02",
+    "nome": "Jacked-in Voodoo Boy",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/JACKED-IN VOODOO BOY.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-047",
+    "edicao": "CP02",
+    "nome": "Jackie Welles Mama's Favorite",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/JACKIE WELLES Mama's Favorite.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-048",
+    "edicao": "CP02",
+    "nome": "Jackie Welles Ride or Die Choom",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/JACKIE WELLES Ride or Die Choom.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-049",
+    "edicao": "CP02",
+    "nome": "Japantown Jonin",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/JAPANTOWN JONIN.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-050",
+    "edicao": "CP02",
+    "nome": "Johnny Silverhand Never Stop Fighting",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/JOHNNY SILVERHAND Never Stop Fighting.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-051",
+    "edicao": "CP02",
+    "nome": "Johnny Silverhand",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/JOHNNY SILVERHAND.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-052",
+    "edicao": "CP02",
+    "nome": "Judy Álvarez Braindance Maestro",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/JUDY ÁLVAREZ Braindance Maestro.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-053",
+    "edicao": "CP02",
+    "nome": "Judy Álvarez Nothing to Doubt",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/JUDY ÁLVAREZ Nothing to Doubt.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-054",
+    "edicao": "CP02",
+    "nome": "Kerry Eurodyne Axe, Attitude, Audience",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/KERRY EURODYNE Axe, Attitude, Audience.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-055",
+    "edicao": "CP02",
+    "nome": "Kerry Eurodyne",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/KERRY EURODYNE.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-056",
+    "edicao": "CP02",
+    "nome": "Kiroshi Optics",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/KIROSHI OPTICS.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-057",
+    "edicao": "CP02",
+    "nome": "La Llorona",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/LA LLORONA.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-058",
+    "edicao": "CP02",
+    "nome": "Les Élémens",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/LES ÉLÉMENS.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-059",
+    "edicao": "CP02",
+    "nome": "Live With The Aftermath",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/LIVE WITH THE AFTERMATH.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-060",
+    "edicao": "CP02",
+    "nome": "Lizzy Wizzy Delicate Weapon",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/LIZZY WIZZY Delicate Weapon.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-061",
+    "edicao": "CP02",
+    "nome": "Maelstrom Goons",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/MAELSTROM GOONS.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-062",
+    "edicao": "CP02",
+    "nome": "Maelstrom Zealots",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/MAELSTROM ZEALOTS.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-063",
+    "edicao": "CP02",
+    "nome": "Maman Brigitte Spirit of Death",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/MAMAN BRIGITTE Spirit of Death.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-064",
+    "edicao": "CP02",
+    "nome": "Mandibular Upgrade",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/MANDIBULAR UPGRADE.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-065",
+    "edicao": "CP02",
+    "nome": "Mantis Blades",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/MANTIS BLADES.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-066",
+    "edicao": "CP02",
+    "nome": "Maxtac Av",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/MAXTAC AV.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-067",
+    "edicao": "CP02",
+    "nome": "Maxtac Heavy",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/MAXTAC HEAVY.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-068",
+    "edicao": "CP02",
+    "nome": "Maxtac Squadron",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/MAXTAC SQUADRON.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-069",
+    "edicao": "CP02",
+    "nome": "Maxtac Suppression Team",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/MAXTAC SUPPRESSION TEAM.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-070",
+    "edicao": "CP02",
+    "nome": "Memory Relapse",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/MEMORY RELAPSE.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-071",
+    "edicao": "CP02",
+    "nome": "Meredith Stout",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/MEREDITH STOUT.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-072",
+    "edicao": "CP02",
+    "nome": "Misty Olszewski Mender of Broken Spirits",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/MISTY OLSZEWSKI Mender of Broken Spirits.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-073",
+    "edicao": "CP02",
+    "nome": "Modded Kusanagi",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/MODDED KUSANAGI.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-074",
+    "edicao": "CP02",
+    "nome": "Modded Muramasa",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/MODDED MURAMASA.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-075",
+    "edicao": "CP02",
+    "nome": "Mox Inciters",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/MOX INCITERS.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-076",
+    "edicao": "CP02",
+    "nome": "Muamar Reyes El Capitán",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/MUAMAR REYES El Capitán.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-077",
+    "edicao": "CP02",
+    "nome": "Nadia Fighting Through Grief",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/NADIA Fighting Through Grief.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-078",
+    "edicao": "CP02",
+    "nome": "Netwatch Netdriver",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/NETWATCH NETDRIVER.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-079",
+    "edicao": "CP02",
+    "nome": "Nocturne Op55 N1",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/NOCTURNE OP55 N1.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-080",
+    "edicao": "CP02",
+    "nome": "Octant",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/OCTANT.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-081",
+    "edicao": "CP02",
+    "nome": "Offduty Malfini",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/OFFDUTY MALFINI.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-082",
+    "edicao": "CP02",
+    "nome": "Over The Edge",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/OVER THE EDGE.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-083",
+    "edicao": "CP02",
+    "nome": "Overwatch Panam's Gift",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/OVERWATCH Panam's Gift.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-084",
+    "edicao": "CP02",
+    "nome": "Pacifica Netrunner",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/PACIFICA NETRUNNER.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-085",
+    "edicao": "CP02",
+    "nome": "Padre Man of the Cross",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/PADRE Man of the Cross.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-086",
+    "edicao": "CP02",
+    "nome": "Panam Palmer Nomad Cavalry",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/PANAM PALMER Nomad Cavalry.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-087",
+    "edicao": "CP02",
+    "nome": "Panam Palmer Strenght Through Family",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/PANAM PALMER Strenght Through Family.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-088",
+    "edicao": "CP02",
+    "nome": "Peace Offering",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/PEACE OFFERING.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-089",
+    "edicao": "CP02",
+    "nome": "Pepe Najarro Working Doubles",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/PEPE NAJARRO Working Doubles.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-090",
+    "edicao": "CP02",
+    "nome": "Placide",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/PLACIDE.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-091",
+    "edicao": "CP02",
+    "nome": "Psycho Squad",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/PSYCHO SQUAD.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-092",
+    "edicao": "CP02",
+    "nome": "Pyramid Song",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/PYRAMID SONG.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-093",
+    "edicao": "CP02",
+    "nome": "Reboot Optics",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/REBOOT OPTICS.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-094",
+    "edicao": "CP02",
+    "nome": "Riding Nomad",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/RIDING NOMAD.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-095",
+    "edicao": "CP02",
+    "nome": "Riot Shield",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/RIOT SHIELD.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-096",
+    "edicao": "CP02",
+    "nome": "Rita Wheeler No Stupid Questions",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/RITA WHEELER No Stupid Questions.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-097",
+    "edicao": "CP02",
+    "nome": "River Ward Detective on the Hunt",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/RIVER WARD Detective on the Hunt.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-098",
+    "edicao": "CP02",
+    "nome": "Rockn' Rockerboy",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/ROCKN' ROCKERBOY.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-099",
+    "edicao": "CP02",
+    "nome": "Rogue Amendiares Preem Solo",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/ROGUE AMENDIARES Preem Solo.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-100",
+    "edicao": "CP02",
+    "nome": "Rogue Amendiares Queen of the Afterlife",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/ROGUE AMENDIARES Queen of the Afterlife.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-101",
+    "edicao": "CP02",
+    "nome": "Royce Don't call Me Simon",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/ROYCE Don't call Me Simon.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-102",
+    "edicao": "CP02",
+    "nome": "Royce",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/ROYCE.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-103",
+    "edicao": "CP02",
+    "nome": "Ruthless Lowlife",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/RUTHLESS LOWLIFE.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-104",
+    "edicao": "CP02",
+    "nome": "Safety Override",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/SAFETY OVERRIDE.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-105",
+    "edicao": "CP02",
+    "nome": "Sandayu Oda Hanako's Guardian",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/SANDAYU ODA Hanako's Guardian.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-106",
+    "edicao": "CP02",
+    "nome": "Sandevistan",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/SANDEVISTAN.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-107",
+    "edicao": "CP02",
+    "nome": "Sasha Yakovleva Won't Let Your Down",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/SASHA YAKOVLEVA Won't Let Your Down.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-108",
+    "edicao": "CP02",
+    "nome": "Satori",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/SATORI.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-109",
+    "edicao": "CP02",
+    "nome": "Saul Bright Stormrider",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/SAUL BRIGHT Stormrider.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-110",
+    "edicao": "CP02",
+    "nome": "Screw",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/SCREW.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-111",
+    "edicao": "CP02",
+    "nome": "Secondary Bombus",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/SECONDARY BOMBUS.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-112",
+    "edicao": "CP02",
+    "nome": "Shattered Memories",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/SHATTERED MEMORIES.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-113",
+    "edicao": "CP02",
+    "nome": "Sketchy Ripper",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/SKETCHY RIPPER.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-114",
+    "edicao": "CP02",
+    "nome": "Swordwise Huscle",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/SWORDWISE HUSCLE.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-115",
+    "edicao": "CP02",
+    "nome": "Synapse Burnout",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/SYNAPSE BURNOUT.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-116",
+    "edicao": "CP02",
+    "nome": "T-bug",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/T-BUG.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-117",
+    "edicao": "CP02",
+    "nome": "Take Control",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/TAKE CONTROL.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-118",
+    "edicao": "CP02",
+    "nome": "Tetratronic Rippler",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/TETRATRONIC RIPPLER.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-119",
+    "edicao": "CP02",
+    "nome": "The Heist",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/THE HEIST.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-120",
+    "edicao": "CP02",
+    "nome": "The Relic",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/THE RELIC.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-121",
+    "edicao": "CP02",
+    "nome": "Three Mouths, One Desire",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/THREE MOUTHS, ONE DESIRE.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-122",
+    "edicao": "CP02",
+    "nome": "Towerfall",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/TOWERFALL.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-123",
+    "edicao": "CP02",
+    "nome": "Trauma Team Operatives",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/TRAUMA TEAM OPERATIVES.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-124",
+    "edicao": "CP02",
+    "nome": "Trust No One",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/TRUST NO ONE.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-125",
+    "edicao": "CP02",
+    "nome": "Tyger's Whisper",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/TYGER'S WHISPER.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-126",
+    "edicao": "CP02",
+    "nome": "Unlikely Bond",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/UNLIKELY BOND.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-127",
+    "edicao": "CP02",
+    "nome": "V Roamer of the Badlands",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/V Roamer of the Badlands.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-128",
+    "edicao": "CP02",
+    "nome": "V",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/V.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-129",
+    "edicao": "CP02",
+    "nome": "Valentino Guerrera",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/VALENTINO GUERRERA.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-130",
+    "edicao": "CP02",
+    "nome": "Valentino Street Racer",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/VALENTINO STREET RACER.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-131",
+    "edicao": "CP02",
+    "nome": "Viktor Vektor You Might Feel a Little Pinch",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/VIKTOR  VEKTOR You Might Feel a Little Pinch.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-132",
+    "edicao": "CP02",
+    "nome": "Viktor Vektor Drop Your Illusions",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/VIKTOR VEKTOR Drop Your Illusions.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-133",
+    "edicao": "CP02",
+    "nome": "Wakako Okada Peace and Harmony",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/WAKAKO OKADA Peace and Harmony.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-134",
+    "edicao": "CP02",
+    "nome": "We Gotta Live Together",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/WE GOTTA LIVE TOGETHER.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-135",
+    "edicao": "CP02",
+    "nome": "Westbrook Netrunner",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/WESTBROOK NETRUNNER.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-136",
+    "edicao": "CP02",
+    "nome": "Wild In The Streets",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/WILD IN THE STREETS.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-137",
+    "edicao": "CP02",
+    "nome": "Wraith Marauders",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/WRAITH MARAUDERS.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-138",
+    "edicao": "CP02",
+    "nome": "Yorinobu Arasaka Steel Dragon",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/YORINOBU ARASAKA Steel Dragon.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-139",
+    "edicao": "CP02",
+    "nome": "Zetatech Berserk",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/ZETATECH BERSERK.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  },
+  {
+    "serial": "CP02-140",
+    "edicao": "CP02",
+    "nome": "Zetatech Faceplate",
+    "imagem": "catalogos/cyberpunk/imagens/Beta Booster/ZETATECH FACEPLATE.webp",
+    "tipo": "CARD",
+    "raridade": "Beta",
+    "cor": "Desconhecida"
+  }
+]

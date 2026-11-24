@@ -1,0 +1,13 @@
+Nahel Argama
+
+COLOR Blue | TYPE BASE | RARITY U
+
+Lv. 3 | COST 2 
+
+【Burst】Deploy this card.
+【Deploy】Add 1 of your Shields to your hand. Then, choose 1 enemy Unit with 3 or less HP. Rest it.
+
+Trait (Earth Federation) (Warship)
+Link -
+
+AP 0 | HP 5

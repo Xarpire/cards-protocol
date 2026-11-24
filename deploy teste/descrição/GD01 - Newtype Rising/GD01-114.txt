@@ -1,0 +1,13 @@
+Assault on Torrington Base
+
+COLOR Red | TYPE COMMAND | RARITY C
+
+Lv. 1 | COST 1
+
+【Action】Choose 2 friendly Units. They get AP+1 during this turn.
+【Pilot】[Yonem Kirks]
+
+Trait (Zeon)
+Link -
+
+AP +1 | HP +0

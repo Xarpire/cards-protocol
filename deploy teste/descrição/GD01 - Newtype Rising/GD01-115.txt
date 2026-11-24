@@ -1,0 +1,12 @@
+Zeon Remnant Forces
+
+COLOR Red | TYPE COMMAND | RARITY U
+
+Lv. 2 | COST 1
+
+【Main】/【Action】Choose 1 enemy Unit. Deal 1 damage to it.
+
+Trait -
+Link -
+
+AP - | HP -

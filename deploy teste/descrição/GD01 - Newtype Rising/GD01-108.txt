@@ -1,0 +1,12 @@
+Strategic Arms
+
+COLOR Green | TYPE COMMAND | RARITY U
+
+Lv. 6 | COST 6
+
+【Main】Deal 2 damage to all Units with <Blocker>.
+
+Trait -
+Link -
+
+AP - | HP -

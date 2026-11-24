@@ -1,0 +1,12 @@
+Gundam Aerial Rebuild
+
+COLOR White | TYPE UNIT | RARITY LR
+
+Lv. 6 | COST 5 
+
+【When Paired】Choose 1 Command card that is Lv.5 or lower from your trash. Add it to your hand.
+
+Trait (Academy)
+Link [Suletta Mercury]
+
+AP 5 | HP 4

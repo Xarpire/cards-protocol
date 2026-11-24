@@ -1,0 +1,12 @@
+Unicorn Gundam 02 Banshee (Unicorn Mode)
+
+COLOR Blue | TYPE UNIT | RARITY R
+
+Lv. 4 | COST 3
+
+When Paired】Choose 1 enemy Unit with 3 or less HP. Rest it.
+
+Trait (Earth Federation)
+Link (Cyber-Newtype) Trait
+
+AP 4 | HP 3

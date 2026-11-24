@@ -1,0 +1,12 @@
+Gyan
+
+COLOR Green | TYPE UNIT | RARITY R
+
+Lv. 4 | COST 3 
+
+【When Paired･(Zeon) Pilot】Choose 1 enemy Unit with <Blocker> that is Lv.2 or lower. Destroy it.
+
+Trait (Zeon)
+Link [M'Quve]
+
+AP 4 | HP 3

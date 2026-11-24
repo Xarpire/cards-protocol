@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Acesso - Minha Coleção</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="barra-topo">
+    <a class="marca" href="/" aria-label="Minha Coleção - início">
+      <span class="marca-icone">✦</span>
+      <span class="marca-texto">
+        <strong>Minha Coleção</strong>
+        <small>Catálogo pessoal</small>
+      </span>
+    </a>
+    <nav class="menu-topo">
+      <ul>
+        <li><a href="/">Catálogo</a></li>
+        <li><a href="/colecao.html">Minha coleção</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main class="pagina-acesso">
+    <section class="painel-acesso">
+      <h1 id="tituloAcesso">Entrar na coleção</h1>
+      <p class="texto-acesso">Sua conta permite acessar e atualizar a coleção compartilhada entre os aparelhos conectados a este servidor.</p>
+
+      <div class="abas-acesso" role="group" aria-label="Tipo de acesso">
+        <button id="abaEntrar" class="aba-acesso ativa" type="button">Entrar</button>
+        <button id="abaCriar" class="aba-acesso" type="button">Criar conta</button>
+      </div>
+
+      <form id="formAcesso">
+        <label for="usuario">Usuário</label>
+        <input id="usuario" name="username" type="text" minlength="3" maxlength="32" pattern="[A-Za-z0-9_-]{3,32}" autocomplete="username" required>
+
+        <label for="senha">Senha</label>
+        <input id="senha" name="password" type="password" minlength="12" maxlength="128" autocomplete="current-password" required>
+        <small id="dicaSenha">Use a senha da sua conta.</small>
+
+        <button id="btnEnviarAcesso" class="botao-principal" type="submit">Entrar</button>
+      </form>
+
+      <p id="mensagemAcesso" class="mensagem-acesso" role="status" aria-live="polite"></p>
+
+      <details class="instrucoes-certificado">
+        <summary>Configurar conexão segura neste aparelho</summary>
+        <p>Baixe o certificado local e instale-o como certificado de autoridade (CA) confiável no aparelho. Feche e abra o navegador novamente.</p>
+        <p>No Android, procure a opção de instalar um certificado de CA em Segurança. No iPhone, instale o perfil e ative a confiança em Ajustes &gt; Geral &gt; Sobre &gt; Ajustes de Confiança de Certificados.</p>
+        <a href="/autoridade-local.crt">Baixar certificado local</a>
+        <p>Na primeira visita, se o navegador mostrar um aviso de segurança, abra as opções avançadas para baixar o certificado. Depois de instalá-lo, acesse novamente o endereço HTTPS.</p>
+      </details>
+    </section>
+  </main>
+
+  <script src="acesso.js"></script>
+</body>
+</html>

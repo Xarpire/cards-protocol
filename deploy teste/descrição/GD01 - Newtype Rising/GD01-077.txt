@@ -1,0 +1,12 @@
+Strike Gundam
+
+COLOR White | TYPE UNIT | RARITY C
+
+Lv. 4 | COST 2 
+
+-
+
+Trait (Earth Alliance)
+Link [Kira Yamato]
+
+AP 3 | HP 4

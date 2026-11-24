@@ -1,0 +1,12 @@
+Mistral
+
+COLOR White | TYPE UNIT | RARITY C
+
+Lv. 1 | COST 1 
+
+【Deploy】Choose 1 enemy Unit. It gets AP-1 during this turn.
+
+Trait (Earth Alliance)
+Link -
+
+AP 1 | HP 1

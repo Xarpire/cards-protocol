@@ -1,0 +1,12 @@
+Overflowing Affection
+
+COLOR White | TYPE COMMAND | RARITY U
+
+Lv. 2 | COST 1
+
+【Main】Draw 2. Then, discard 1.
+
+Trait -
+Link -
+
+AP - | HP -

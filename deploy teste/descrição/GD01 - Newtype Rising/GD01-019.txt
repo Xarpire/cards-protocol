@@ -1,0 +1,13 @@
+Byarlant Custom
+
+COLOR Blue | TYPE UNIT | RARITY U
+
+Lv. 4 | COST 2
+
+While 4 or more enemy Units are in play, this Unit gains <Blocker>.
+(Rest this Unit to change the attack target to it.)
+
+Trait (Earth Federation)
+Link -
+
+AP 3 | HP 4

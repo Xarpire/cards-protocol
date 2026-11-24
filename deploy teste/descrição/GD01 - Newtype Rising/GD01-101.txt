@@ -1,0 +1,13 @@
+Deep Devotion
+
+COLOR Blue | TYPE COMMAND | RARITY R
+
+Lv. 2 | COST 1
+
+【Main】/【Action】Choose 1 friendly Link Unit. It recovers 3 HP.
+【Pilot】[Lucrezia Noin]
+
+Trait (OZ)
+Link -
+
+AP +1 | HP +0

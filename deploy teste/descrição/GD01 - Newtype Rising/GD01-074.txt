@@ -1,0 +1,12 @@
+Chuchu's Demi Trainer
+
+COLOR White | TYPE UNIT | RARITY R
+
+Lv. 2 | COST 2
+
+【Attack】Draw 1. Then, discard 1.
+
+Trait (Academy)
+Link [Chuatury Panlunch]
+
+AP 3 | HP 1

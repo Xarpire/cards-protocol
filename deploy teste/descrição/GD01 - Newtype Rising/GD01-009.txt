@@ -1,0 +1,13 @@
+G-Fighter
+
+COLOR Blue | TYPE UNIT | RARITY U
+
+Lv. 3 | COST 2
+
+Deploy】Choose 1 of your (White Base Team) Units. It gains <High-Maneuver> during this turn.
+(This Unit can't be blocked.)
+
+Trait (Earth Federation) (White Base Team)
+Link (White Base Team) Trait
+
+AP 3 | HP 2

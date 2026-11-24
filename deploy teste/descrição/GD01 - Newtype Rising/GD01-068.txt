@@ -1,0 +1,13 @@
+Perfect Strike Gundam
+
+COLOR White | TYPE UNIT | RARITY R
+
+Lv. 5 | COST 3 
+
+<Blocker> (Rest this Unit to change the attack target to it.)
+【Deploy】Choose 1 enemy Unit with 1 HP. Return it to its owner's hand.
+
+Trait (Triple Ship Alliance)
+Link (Earth Alliance) Trait
+
+AP 4 | HP 4

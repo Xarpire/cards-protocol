@@ -1,0 +1,12 @@
+The Path to Victory or Defeat
+
+COLOR Green | TYPE COMMAND | RARITY C
+
+Lv. 5 | COST 1
+
+【Main】Look at the top 5 cards of your deck. You may reveal 1 (Operation Meteor)/(G Team) Unit card/Pilot card among them and add it to your hand. Return the remaining cards randomly to the bottom of your deck.
+
+Trait -
+Link -
+
+AP - | HP -

@@ -1,0 +1,13 @@
+Battle of Aces
+
+COLOR Red | TYPE COMMAND | RARITY R
+
+Lv. 3 | COST 2 
+
+【Burst】Choose 1 enemy Unit. Deal 2 damage to it.
+【Main】/【Action】Choose 1 damaged enemy Unit. Deal 3 damage to it.
+
+Trait -
+Link -
+
+AP - | HP -

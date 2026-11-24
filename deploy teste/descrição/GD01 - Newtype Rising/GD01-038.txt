@@ -1,0 +1,12 @@
+Adzam
+
+COLOR Green | TYPE UNIT | RARITY U
+
+Lv. 5 | COST 4 
+
+【Deploy】If 5 or more enemy Units are in play, deal 1 damage to all enemy Units.
+
+Trait (Zeon)
+Link (Zeon) Trait
+
+AP 2 | HP 5

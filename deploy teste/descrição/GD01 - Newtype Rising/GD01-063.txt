@@ -1,0 +1,13 @@
+ZnO
+
+COLOR Red | TYPE UNIT | RARITY U
+
+Lv. 2 | COST 2 
+
+During your turn, while this Unit is battling an enemy Unit that is Lv.2 or lower, it gains <First Strike>.
+(While this Unit is attacking, it deals damage before the enemy Unit.)
+
+Trait (ZAFT)
+Link (ZAFT) Trait
+
+AP 2 | HP 1

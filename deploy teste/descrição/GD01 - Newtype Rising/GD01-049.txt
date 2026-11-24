@@ -1,0 +1,13 @@
+Blitz Gundam
+
+COLOR Red | TYPE UNIT | RARITY R
+
+Lv. 4 | COST 3 
+
+【Deploy】Choose 1 of your (ZAFT) Units with 5 or more AP. It gains <First Strike> during this turn.
+(While this Unit is attacking, it deals damage before the enemy Unit.)
+
+Trait (ZAFT)
+Link [Nicol Amarfi]
+
+AP 3 | HP 3

@@ -1,0 +1,12 @@
+Zaku Ⅱ
+
+COLOR Green | TYPE UNIT | RARITY C
+
+Lv. 2 | COST 1 
+
+-
+
+Trait (Zeon)
+Link -
+
+AP 2 | HP 2

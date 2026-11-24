@@ -1,0 +1,12 @@
+Gelgoog
+
+COLOR Green | TYPE UNIT | RARITY U
+
+Lv. 4 | COST 2 
+
+-
+
+Trait (Zeon)
+Link (Zeon) Trait
+
+AP 4 | HP 3

@@ -1,0 +1,12 @@
+Unicorn Gundam (Unicorn Mode)
+
+COLOR Blue | TYPE UNIT | RARITY R
+
+Lv. 5 | COST 4
+
+During Pair】【Destroyed】If this is a Link Unit, return its paired Pilot to its owner's hand. Then, discard 1.
+
+Trait (Civilian)
+Link [Banagher Links]
+
+AP 4 | HP 3

@@ -1,0 +1,12 @@
+GOOhN
+
+COLOR Red | TYPE UNIT | RARITY C
+
+Lv. 1 | COST 1 
+
+-
+
+Trait (ZAFT)
+Link -
+
+AP 1 | HP 2

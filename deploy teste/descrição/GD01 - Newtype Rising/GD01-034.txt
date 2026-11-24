@@ -1,0 +1,13 @@
+Gundam Heavyarms
+
+COLOR Green | TYPE UNIT | RARITY U
+
+Lv. 4 | COST 2 
+
+【During Pair】This Unit gains <Breach 3>.
+(When this Unit's attack destroys an enemy Unit, deal the specified amount of damage to the first card in that opponent's shield area.)
+
+Trait (Operation Meteor)
+Link [Trowa Barton]
+
+AP 3 | HP 4

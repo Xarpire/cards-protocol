@@ -1,0 +1,12 @@
+Kshatriya
+
+COLOR Red | TYPE UNIT | RARITY U
+
+Lv. 4 | COST 2 
+
+-
+
+Trait (Neo Zeon)
+Link (Cyber-Newtype) Trait
+
+AP 3 | HP 4

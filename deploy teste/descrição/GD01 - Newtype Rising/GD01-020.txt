@@ -1,0 +1,12 @@
+Anksha
+
+COLOR Blue | TYPE UNIT | RARITY C
+
+Lv. 4 | COST 2 
+
+【Deploy】Choose 1 rested enemy Unit. Deal 1 damage to it.
+
+Trait (Earth Federation)
+Link -
+
+AP 3 | HP 3

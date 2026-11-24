@@ -1,0 +1,12 @@
+Galluss-K
+
+COLOR Red | TYPE UNIT | RARITY C
+
+Lv. 3 | COST 2 
+
+【Activate･Action】【Once per Turn】①：Choose 1 Unit that is Lv.4 or higher. It gets AP+1 during this battle.
+
+Trait (Zeon)
+Link -
+
+AP 3 | HP 2

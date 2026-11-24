@@ -1,0 +1,12 @@
+BuCUE
+
+COLOR Red | TYPE UNIT | RARITY U
+
+Lv. 3 | COST 2 
+
+【Activate･Main】<Support 2> (Rest this Unit. 1 other friendly Unit gets AP+(specified amount) during this turn.)
+
+Trait (ZAFT)
+Link -
+
+AP 2 | HP 3
